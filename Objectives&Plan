@@ -55,6 +55,14 @@ Business Rules:
 [R4] When an opponent is deleted/updated from the database, the corresponding game and location information are also deleted/updated.
 [R5] When a location is deleted/updated from the database, the corresponding game and location information are also deleted/updated.
 
+Referential Integrities:
+| Relation | Foreign Key | Base Relation | Primary Key | Business Rule | Constraint: ON DELETE | Business Rule | Constraint: ON UPDATE |
+|----------|-------------|---------------|-------------|---------------|------------------------|---------------|-------------------------|
+| Play     | trnName     | Tournament    | trnName     | R1            | CASCADE                | R1            | CASCADE                 |
+| Play     | gmeId       | Game          | gmeId       | R2            | NO ACTION              | R2            | NO ACTION               |
+| Hold     | gmeId       | Game          | gmeId       | R3            | NO ACTION              | R3            | NO ACTION               |
+| Hold     | oppId       | Opponent      | oppId       | R4            | CASCADE                | R4            | CASCADE                 |
+| Hold     | locId       | Location      | locId       | R5            | CASCADE                | R5            | CASCADE                 |
 
 
 
