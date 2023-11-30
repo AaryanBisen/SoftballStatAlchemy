@@ -1,0 +1,1451 @@
+gmeId,gmeDate,gmeTime,gmeTimeOfDay,gmeScore,gmeAt,trnName
+GME0001,2023-02-09,21:30:00,Night, 7-3,Neutral,Puerto Vallarta College Challenge
+GME0002,2023-02-10,16:00:00,Afternoon, 10-2,Neutral,Puerto Vallarta College Challenge
+GME0003,2023-02-11,11:00:00,Morning, 1-2,Neutral,Puerto Vallarta College Challenge
+GME0004,2023-02-12,12:00:00,Afternoon, 11-6,Neutral,Puerto Vallarta College Challenge
+GME0005,2023-02-12,14:30:00,Afternoon, 4-2,Neutral,Puerto Vallarta College Challenge
+GME0006,2023-02-17,15:00:00,Afternoon, 2-1,Neutral,ACC/Big Ten Challenge
+GME0007,2023-02-18,12:30:00,Afternoon, 6-4,Neutral,ACC/Big Ten Challenge
+GME0008,2023-02-18,17:30:00,Evening, 5-3,Away,ACC/Big Ten Challenge
+GME0009,2023-02-19,12:30:00,Afternoon, 4-3,Away,ACC/Big Ten Challenge
+GME0010,2023-02-24,12:00:00,Afternoon, 10-0,Neutral,Baylor Tournament
+GME0011,2023-02-24,14:30:00,Afternoon, 0-5,Away,Baylor Tournament
+GME0012,2023-02-25,11:00:00,Morning, 1-4,Neutral,Baylor Tournament
+GME0013,2023-02-25,18:30:00,Evening, 1-5,Neutral,Baylor Tournament
+GME0014,2023-02-26,10:00:00,Morning, 3-1,Neutral,Baylor Tournament
+GME0015,2023-03-03,12:30:00,Afternoon, 4-0,Neutral,East Carolina Tournament
+GME0016,2023-03-03,17:30:00,Evening, 5-0,Away,East Carolina Tournament
+GME0017,2023-03-04,10:00:00,Morning, 11-0,Neutral,East Carolina Tournament
+GME0018,2023-03-04,17:30:00,Evening, 6-0,Neutral,East Carolina Tournament
+GME0019,2023-03-05,12:30:00,Afternoon, 12-2,Away,East Carolina Tournament
+GME0020,2023-03-10,11:00:00,Morning, 4-3,Neutral,Liberty Tournament
+GME0021,2023-03-10,13:00:00,Afternoon, 11-0,Neutral,Liberty Tournament
+GME0022,2023-03-11,10:00:00,Morning, 10-2,Neutral,Liberty Tournament
+GME0023,2023-03-11,12:00:00,Afternoon, 4-1,Neutral,Liberty Tournament
+GME0024,2023-03-17,16:30:00,Afternoon, 9-4,Home,Capital City Classic
+GME0025,2023-03-17,19:00:00,Evening, 1-6,Home,Capital City Classic
+GME0026,2023-03-18,14:00:00,Afternoon, 3-0,Home,Capital City Classic
+GME0027,2023-03-18,19:00:00,Evening, 7-3,Home,Capital City Classic
+GME0028,2023-03-25,12:00:00,Afternoon, 1-2,Away,
+GME0029,2023-03-26,10:00:00,Morning, 7-15,Away,
+GME0030,2023-03-26,12:30:00,Afternoon, 4-11,Away,
+GME0031,2023-03-29,18:00:00,Evening, 10-0,Home,
+GME0032,2023-03-31,15:30:00,Afternoon, 3-0,Home,DH
+GME0033,2023-03-31,18:00:00,Evening, 11-0,Home,DH
+GME0034,2023-04-02,12:00:00,Afternoon, 8-0,Home,
+GME0035,2023-04-05,13:00:00,Afternoon, 3-4,Away,
+GME0036,2023-04-05,15:00:00,Afternoon, 2-5,Away,
+GME0037,2023-04-07,18:00:00,Evening, 0-3,Home,
+GME0038,2023-04-08,14:00:00,Afternoon, 2-0,Home,
+GME0039,2023-04-09,12:00:00,Afternoon, 0-4,Home,
+GME0040,2023-04-14,16:00:00,Afternoon, 5-2,Away,
+GME0041,2023-04-14,18:30:00,Evening, 2-0,Away,
+GME0042,2023-04-15,14:00:00,Afternoon, 1-2,Away,
+GME0043,2023-04-19,18:00:00,Evening, 9-0,Home,
+GME0044,2023-04-21,18:00:00,Evening, 2-3,Home,
+GME0045,2023-04-22,11:30:00,Morning, 2-1,Home,
+GME0046,2023-04-23,12:00:00,Afternoon, 1-2,Home,
+GME0047,2023-04-29,14:00:00,Afternoon, 0-1,Home,
+GME0048,2023-04-29,16:30:00,Afternoon, 3-2,Home,
+GME0049,2023-05-02,18:00:00,Evening, 11-1,Home,
+GME0050,2023-05-05,17:30:00,Evening, 6-2,Away,
+GME0051,2023-05-06,14:00:00,Afternoon, 8-1,Away,
+GME0052,2023-05-07,12:00:00,Afternoon, 6-1,Away,
+GME0053,2023-05-10,17:30:00,Evening, 1-7,Neutral,Big Ten Tournament
+GME0054,2023-05-18,12:00:00,Afternoon, 8-0,Neutral,Postseason NISC
+GME0055,2023-05-19,14:00:00,Afternoon, 4-6,Neutral,Postseason NISC
+GME0056,2023-05-19,17:00:00,Evening, 7-4,Neutral,Postseason NISC
+GME0057,2023-05-20,14:00:00,Afternoon, 3-4,Neutral,Postseason NISC
+GME0058,2022-02-11,12:30:00,Afternoon, 1-2,Neutral,FIU Tournament
+GME0059,2022-02-11,5:30:00,Morning, 10-2,Away,FIU Tournament
+GME0060,2022-02-12,10:00:00,Morning, 5-6,Neutral,FIU Tournament
+GME0061,2022-02-12,16:30:00,Afternoon, 5-3,Neutral,FIU Tournament
+GME0062,2022-02-18,13:30:00,Afternoon, 0-9,Neutral,THE Spring Games
+GME0063,2022-02-18,16:00:00,Afternoon, 3-8,Neutral,THE Spring Games
+GME0064,2022-02-19,11:00:00,Morning, 0-1,Neutral,THE Spring Games
+GME0065,2022-02-19,13:30:00,Afternoon, 11-3,Neutral,THE Spring Games
+GME0066,2022-02-20,11:30:00,Morning, 1-0,Neutral,THE Spring Games
+GME0067,2022-02-25,9:00:00,Morning, 4-5,Neutral,Chanticleer Showdown
+GME0068,2022-02-25,14:00:00,Afternoon, 14-4,Neutral,Chanticleer Showdown
+GME0069,2022-02-26,11:30:00,Morning, 7-3,Neutral,Chanticleer Showdown
+GME0070,2022-02-26,14:00:00,Afternoon, 5-2,Away,Chanticleer Showdown
+GME0071,2022-02-27,9:00:00,Morning, 5-2,Neutral,Chanticleer Showdown
+GME0072,2022-03-04,11:00:00,Morning, 2-1,Neutral,Queen City Classic
+GME0073,2022-03-04,16:00:00,Afternoon, 2-5,Away,Queen City Classic
+GME0074,2022-03-05,11:00:00,Morning, 2-3,Neutral,Queen City Classic
+GME0075,2022-03-05,13:30:00,Afternoon, 7-8,Neutral,Queen City Classic
+GME0076,2022-03-08,17:30:00,Evening, 2-10,Away,
+GME0077,2022-03-11,12:30:00,Afternoon, 0-6,Neutral,Mizuno Classic
+GME0078,2022-03-11,17:30:00,Evening, 12-5,Neutral,Mizuno Classic
+GME0079,2022-03-16,18:00:00,Evening, 2-6,Home,
+GME0080,2022-03-18,16:15:00,Afternoon, 2-3,Home,Capital City Classic
+GME0081,2022-03-18,18:30:00,Evening, 11-4,Home,Capital City Classic
+GME0082,2022-03-19,14:15:00,Afternoon, 7-8,Home,Capital City Classic
+GME0083,2022-03-19,16:30:00,Afternoon, 8-0,Home,Capital City Classic
+GME0084,2022-03-20,10:00:00,Morning, 5-3,Home,Capital City Classic
+GME0085,2022-03-24,17:30:00,Evening, 1-2,Away,
+GME0086,2022-03-25,18:00:00,Evening, 8-3,Away,
+GME0087,2022-03-26,12:00:00,Afternoon, 6-4,Away,
+GME0088,2022-04-01,18:00:00,Evening, 8-5,Home,
+GME0089,2022-04-02,14:00:00,Afternoon, 10-2,Home,
+GME0090,2022-04-03,12:00:00,Afternoon, 6-2,Home,
+GME0091,2022-04-06,18:00:00,Evening, 8-0,Home,
+GME0092,2022-04-09,13:00:00,Afternoon, 2-5,Away,
+GME0093,2022-04-09,15:30:00,Afternoon, 9-0,Away,
+GME0094,2022-04-10,12:00:00,Afternoon, 2-1,Away,
+GME0095,2022-04-14,18:00:00,Evening, 5-1,Home,
+GME0096,2022-04-15,18:00:00,Evening, 3-5,Home,
+GME0097,2022-04-16,12:00:00,Afternoon, 2-9,Home,
+GME0098,2022-04-19,16:00:00,Afternoon, 10-7,Home,
+GME0099,2022-04-19,18:30:00,Evening, 6-1,Home,
+GME0100,2022-04-22,2:00:00,Morning, 1-13,Away,
+GME0101,2022-04-23,14:00:00,Afternoon, 6-1,Away,
+GME0102,2022-04-24,13:00:00,Afternoon, 4-3,Away,
+GME0103,2022-04-29,18:00:00,Evening, 7-2,Away,
+GME0104,2022-04-30,13:00:00,Afternoon, 8-0,Away,
+GME0105,2022-05-01,13:00:00,Afternoon, 1-2,Away,
+GME0106,2022-05-08,11:30:00,Morning, 0-6,Home,
+GME0107,2022-05-08,15:00:00,Afternoon, 5-8,Home,
+GME0108,2022-05-11,19:00:00,Evening, 7-1,Neutral,Big Ten Tournament
+GME0109,2022-05-12,,Night, 0-7,Neutral,Big Ten Tournament
+GME0110,2021-02-26,16:15:00,Afternoon, 1-2,Neutral,
+GME0111,2021-02-26,19:15:00,Evening, 2-1,Neutral,
+GME0112,2021-02-27,10:20:00,Morning, 5-7,Neutral,
+GME0113,2021-02-27,12:50:00,Afternoon, 3-2,Neutral,
+GME0114,2021-02-28,9:20:00,Morning, 0-1,Neutral,
+GME0115,2021-02-28,11:50:00,Morning, 2-1,Neutral,
+GME0116,2021-03-11,10:20:00,Morning, 4-1,Neutral,
+GME0117,2021-03-11,12:50:00,Afternoon, 1-2,Neutral,
+GME0118,2021-03-12,11:20:00,Morning, 8-1,Neutral,
+GME0119,2021-03-13,10:00:00,Morning, 0-1,Neutral,
+GME0120,2021-03-13,12:30:00,Afternoon, 3-2,Neutral,
+GME0121,2021-03-14,9:00:00,Morning, 3-4,Neutral,
+GME0122,2021-03-26,15:00:00,Afternoon, 0-5,Away,
+GME0123,2021-03-27,13:00:00,Afternoon, 8-2,Away,
+GME0124,2021-03-27,15:30:00,Afternoon, 3-13,Away,
+GME0125,2021-03-28,13:00:00,Afternoon, 1-9,Away,
+GME0126,2021-04-02,17:00:00,Evening, 0-9,Home,
+GME0127,2021-04-03,14:00:00,Afternoon, 4-3,Home,
+GME0128,2021-04-03,16:30:00,Afternoon, 3-10,Home,
+GME0129,2021-04-04,13:00:00,Afternoon, 4-9,Home,
+GME0130,2021-04-09,15:00:00,Afternoon, 0-2,Home,
+GME0131,2021-04-09,17:00:00,Evening, 9-1,Home,
+GME0132,2021-04-10,14:00:00,Afternoon, 6-1,Home,
+GME0133,2021-04-10,16:30:00,Afternoon, 5-4,Home,
+GME0134,2021-04-16,19:30:00,Evening, 2-4,Away,
+GME0135,2021-04-17,14:00:00,Afternoon, 0-2,Away,
+GME0136,2021-04-17,16:00:00,Afternoon, 1-5,Away,
+GME0137,2021-04-18,13:00:00,Afternoon, 0-8,Away,
+GME0138,2021-04-23,16:00:00,Afternoon, 1-0,Home,
+GME0139,2021-04-23,18:30:00,Evening, 11-1,Home,
+GME0140,2021-04-24,13:00:00,Afternoon, 0-1,Home,
+GME0141,2021-04-25,13:00:00,Afternoon, 5-4,Home,
+GME0142,2021-04-30,16:00:00,Afternoon, 1-2,Away,
+GME0143,2021-04-30,18:30:00,Evening, 3-4,Away,
+GME0144,2021-05-01,16:00:00,Afternoon, 4-8,Away,
+GME0145,2021-05-02,12:00:00,Afternoon, 0-8,Away,
+GME0146,2021-05-07,13:00:00,Afternoon, 1-3,Away,
+GME0147,2021-05-07,15:00:00,Afternoon, 5-0,Away,
+GME0148,2021-05-08,11:00:00,Morning, 6-2,Away,
+GME0149,2021-05-09,12:00:00,Afternoon, 4-1,Away,
+GME0150,2021-05-14,17:00:00,Evening, 0-2,Home,
+GME0151,2021-05-15,14:00:00,Afternoon, 3-1,Home,
+GME0152,2021-05-15,16:30:00,Afternoon, 5-0,Home,
+GME0153,2021-05-16,12:00:00,Afternoon, 2-3,Home,
+GME0154,2020-02-06,14:00:00,Afternoon, 0-8,Neutral,Texas Classic
+GME0155,2020-02-06,19:00:00,Evening, 0-17,Away,Texas Classic
+GME0156,2020-02-07,17:30:00,Evening, 1-5,Neutral,Texas Classic
+GME0157,2020-02-08,12:30:00,Afternoon, 6-7,Neutral,Texas Classic
+GME0158,2020-02-08,8:00:00,Morning, 3-1,Neutral,Texas Classic
+GME0159,2020-02-14,2:30:00,Morning, 1-5,Away,ACC/Big Ten Challenge
+GME0160,2020-02-15,10:00:00,Morning, 5-8,Neutral,ACC/Big Ten Challenge
+GME0161,2020-02-15,12:30:00,Afternoon, 2-21,Away,ACC/Big Ten Challenge
+GME0162,2020-02-16,10:00:00,Morning, 10-9,Neutral,ACC/Big Ten Challenge
+GME0163,2020-02-21,2:00:00,Morning, 9-2,Neutral,Eagle Round Robin
+GME0164,2020-02-22,12:30:00,Afternoon, 1-2,Neutral,Eagle Round Robin
+GME0165,2020-02-22,3:00:00,Morning, 1-0,Neutral,Eagle Round Robin
+GME0166,2020-02-23,12:00:00,Afternoon, 4-2,Away,Eagle Round Robin
+GME0167,2020-02-28,10:00:00,Morning, 3-2,Neutral,Sun Devil Classic
+GME0168,2020-02-28,4:30:00,Morning, 0-8,Away,Sun Devil Classic
+GME0169,2020-02-29,9:00:00,Morning, 3-2,Neutral,Sun Devil Classic
+GME0170,2020-02-29,11:30:00,Morning, 5-4,Neutral,Sun Devil Classic
+GME0171,2020-03-01,12:00:00,Afternoon, 2-16,Away,Sun Devil Classic
+GME0172,2020-03-06,10:30:00,Morning, 3-0,Neutral,Panther Invitational
+GME0173,2020-03-06,1:00:00,Morning, 0-4,Neutral,Panther Invitational
+GME0174,2020-03-07,12:30:00,Afternoon, 5-0,Neutral,Panther Invitational
+GME0175,2020-03-07,7:30:00,Morning, 5-3,Away,Panther Invitational
+GME0176,2020-03-08,12:00:00,Afternoon, 11-3,Neutral,Panther Invitational
+GME0177,2019-02-08,11:00:00,Morning, 6-3,Neutral,Trojan Classic
+GME0178,2019-02-08,16:00:00,Afternoon, 3-4,Away,Trojan Classic
+GME0179,2019-02-09,11:00:00,Morning, 0-10,Neutral,Trojan Classic
+GME0180,2019-02-09,16:00:00,Afternoon, 1-10,Away,Trojan Classic
+GME0181,2019-02-10,11:00:00,Morning, 3-2,Neutral,Trojan Classic
+GME0182,2019-02-15,14:00:00,Afternoon, 2-1,Neutral,Houston Classic
+GME0183,2019-02-15,16:30:00,Afternoon, 4-2,Away,Houston Classic
+GME0184,2019-02-16,10:00:00,Morning, 8-0,Neutral,Houston Classic
+GME0185,2019-02-16,17:30:00,Evening, 4-12,Away,Houston Classic
+GME0186,2019-02-17,10:00:00,Morning, 6-3,Neutral,Houston Classic
+GME0187,2019-02-22,12:00:00,Afternoon, 8-13,Neutral,Amy S. Harrison Classic
+GME0188,2019-02-22,17:00:00,Evening, 8-3,Away,Amy S. Harrison Classic
+GME0189,2019-02-23,12:00:00,Afternoon, 5-0,Neutral,Amy S. Harrison Classic
+GME0190,2019-02-23,17:00:00,Evening, 2-7,Away,Amy S. Harrison Classic
+GME0191,2019-02-24,12:00:00,Afternoon, 12-9,Neutral,Amy S. Harrison Classic
+GME0192,2019-03-01,10:30:00,Morning, 2-5,Neutral,Carolina Classic
+GME0193,2019-03-02,18:00:00,Evening, 5-11,Away,Carolina Classic
+GME0194,2019-03-03,13:00:00,Afternoon, 17-9,Neutral,Carolina Classic
+GME0195,2019-03-08,16:00:00,Afternoon, 5-6,Neutral,Stetson Invitational
+GME0196,2019-03-08,18:30:00,Evening, 5-6,Away,Stetson Invitational
+GME0197,2019-03-09,12:30:00,Afternoon, 5-4,Neutral,Stetson Invitational
+GME0198,2019-03-09,15:00:00,Afternoon, 3-2,Neutral,Stetson Invitational
+GME0199,2019-03-10,10:00:00,Morning, 2-3,Neutral,Stetson Invitational
+GME0200,2019-03-14,15:00:00,Afternoon, 9-2,Home,Capital City Classic
+GME0201,2019-03-14,17:30:00,Evening, 6-4,Home,Capital City Classic
+GME0202,2019-03-15,15:00:00,Afternoon, 9-2,Home,Capital City Classic
+GME0203,2019-03-16,15:00:00,Afternoon, 6-5,Home,Capital City Classic
+GME0204,2019-03-19,16:00:00,Afternoon, 1-7,Home,
+GME0205,2019-03-22,18:00:00,Evening, 5-6,Home,
+GME0206,2019-03-23,14:00:00,Afternoon, 5-19,Home,
+GME0207,2019-03-24,13:00:00,Afternoon, 3-5,Home,
+GME0208,2019-03-29,18:00:00,Evening, 3-2,Home,
+GME0209,2019-03-30,14:00:00,Afternoon, 1-10,Home,
+GME0210,2019-03-31,13:00:00,Afternoon, 3-15,Home,
+GME0211,2019-04-05,18:00:00,Evening, 11-9,Away,
+GME0212,2019-04-06,13:00:00,Afternoon, 7-8,Away,
+GME0213,2019-04-07,13:00:00,Afternoon, 3-11,Away,
+GME0214,2019-04-12,18:00:00,Evening, 0-8,Away,
+GME0215,2019-04-13,14:00:00,Afternoon, 4-3,Away,
+GME0216,2019-04-13,16:00:00,Afternoon, 1-10,Away,
+GME0217,2019-04-20,13:00:00,Afternoon, 1-12,Home,
+GME0218,2019-04-20,15:00:00,Afternoon, 3-9,Home,
+GME0219,2019-04-21,13:00:00,Afternoon, 5-4,Home,
+GME0220,2019-04-23,13:00:00,Afternoon, 1-4,Away,
+GME0221,2019-04-23,15:00:00,Afternoon, 6-7,Away,
+GME0222,2019-04-26,18:30:00,Evening, 2-11,Away,
+GME0223,2019-04-27,14:00:00,Afternoon, 0-14,Away,
+GME0224,2019-04-28,12:00:00,Afternoon, 1-9,Away,
+GME0225,2019-05-03,18:00:00,Evening, 1-6,Home,
+GME0226,2019-05-04,13:00:00,Afternoon, 0-8,Home,
+GME0227,2019-05-05,14:00:00,Afternoon, 3-12,Home,
+GME0228,2018-02-10,17:30:00,Evening, 0-5,Neutral,
+GME0229,2018-02-10,20:00:00,Night, 3-4,Neutral,
+GME0230,2018-02-11,12:00:00,Afternoon, 2-1,Neutral,
+GME0231,2018-02-17,10:00:00,Morning, 4-1,Neutral,
+GME0232,2018-02-17,15:00:00,Afternoon, 1-12,Neutral,
+GME0233,2018-02-18,9:00:00,Morning, 0-1,Neutral,PA
+GME0234,2018-02-18,11:30:00,Morning, 0-8,Away,
+GME0235,2018-02-23,11:30:00,Morning, 9-5,Neutral,
+GME0236,2018-02-23,16:30:00,Afternoon, 2-7,Away,
+GME0237,2018-02-24,9:00:00,Morning, 1-4,Neutral,
+GME0238,2018-02-24,14:00:00,Afternoon, 0-12,Away,
+GME0239,2018-02-25,8:00:00,Morning, 7-8,Neutral,
+GME0240,2018-03-02,10:00:00,Morning, 2-0,Neutral,
+GME0241,2018-03-02,15:00:00,Afternoon, 1-4,Away,
+GME0242,2018-03-03,17:30:00,Evening, 3-2,Neutral,
+GME0243,2018-03-03,19:30:00,Evening, 5-1,Neutral,
+GME0244,2018-03-04,10:00:00,Morning, 1-2,Neutral,
+GME0245,2018-03-08,16:30:00,Afternoon, 1-7,Home,
+GME0246,2018-03-09,15:00:00,Afternoon, 0-2,Home,
+GME0247,2018-03-09,17:30:00,Evening, 0-2,Home,
+GME0248,2018-03-10,12:30:00,Afternoon, 2-6,Home,
+GME0249,2018-03-10,15:00:00,Afternoon, 4-2,Home,
+GME0250,2018-03-16,18:00:00,Evening, 1-7,Neutral,
+GME0251,2018-03-16,20:30:00,Night, 5-4,Neutral,
+GME0252,2018-03-17,18:00:00,Evening, 2-1,Neutral,
+GME0253,2018-03-17,20:00:00,Night, 0-10,Neutral,
+GME0254,2018-03-18,16:00:00,Afternoon, 7-6,Away,
+GME0255,2018-03-24,13:00:00,Afternoon, 3-8,Away,
+GME0256,2018-03-24,15:30:00,Afternoon, 8-0,Away,
+GME0257,2018-03-25,13:00:00,Afternoon, 4-3,Away,
+GME0258,2018-03-30,18:00:00,Evening, 2-1,Home,
+GME0259,2018-03-31,13:00:00,Afternoon, 5-2,Home,
+GME0260,2018-04-01,12:00:00,Afternoon, 1-0,Home,
+GME0261,2018-04-06,14:00:00,Afternoon, 5-2,Away,
+GME0262,2018-04-07,14:00:00,Afternoon, 1-7,Away,
+GME0263,2018-04-08,13:00:00,Afternoon, 2-20,Away,
+GME0264,2018-04-11,15:00:00,Afternoon, 0-3,Home,PA
+GME0265,2018-04-11,17:30:00,Evening, 7-4,Home,PA
+GME0266,2018-04-13,18:00:00,Evening, 1-10,Home,
+GME0267,2018-04-14,13:00:00,Afternoon, 3-9,Home,
+GME0268,2018-04-14,15:30:00,Afternoon, 1-9,Home,
+GME0269,2018-04-17,17:00:00,Evening, 5-3,Home,
+GME0270,2018-04-17,19:30:00,Evening, 8-7,Home,
+GME0271,2018-04-20,18:00:00,Evening, 0-6,Away,
+GME0272,2018-04-21,14:00:00,Afternoon, 1-12,Away,
+GME0273,2018-04-22,12:30:00,Afternoon, 0-8,Away,
+GME0274,2018-04-27,18:00:00,Evening, 5-13,Away,
+GME0275,2018-04-28,14:00:00,Afternoon, 5-9,Away,
+GME0276,2018-04-29,12:00:00,Afternoon, 2-5,Away,
+GME0277,2018-05-04,15:00:00,Afternoon, 4-7,Home,
+GME0278,2018-05-04,18:00:00,Evening, 5-6,Home,
+GME0279,2018-05-05,13:00:00,Afternoon, 12-15,Home,
+GME0280,2018-05-10,14:30:00,Afternoon, 3-5,Neutral,
+GME0281,2017-02-10,12:30:00,Afternoon, 2-3,Neutral,Texas Invitational
+GME0282,2017-02-10,15:00:00,Afternoon, 5-14,Neutral,Texas Invitational
+GME0283,2017-02-11,12:00:00,Afternoon, 3-6,Neutral,Texas Invitational
+GME0284,2017-02-11,19:30:00,Evening, 2-10,Away,Texas Invitational
+GME0285,2017-02-12,11:00:00,Morning, 2-10,Neutral,Texas Invitational
+GME0286,2017-02-17,9:00:00,Morning, 1-6,Neutral,Aquafina Invitational
+GME0287,2017-02-17,11:15:00,Morning, 2-13,Neutral,Aquafina Invitational
+GME0288,2017-02-18,9:00:00,Morning, 1-5,Neutral,Aquafina Invitational
+GME0289,2017-02-18,11:15:00,Morning, 4-2,Away,Aquafina Invitational
+GME0290,2017-02-24,12:15:00,Afternoon, 0-3,Neutral,Mardi Gras Classic
+GME0291,2017-02-24,14:30:00,Afternoon, 3-0,Neutral,Mardi Gras Classic
+GME0292,2017-02-25,13:45:00,Afternoon, 2-4,Neutral,Mardi Gras Classic
+GME0293,2017-02-25,16:00:00,Afternoon, 0-3,Away,Mardi Gras Classic
+GME0294,2017-02-26,10:00:00,Morning, 5-5,Neutral,Mardi Gras Classic
+GME0295,2017-03-03,11:00:00,Morning, 2-3,Neutral,Missouri Tournament
+GME0296,2017-03-03,16:00:00,Afternoon, 0-14,Neutral,Missouri Tournament
+GME0297,2017-03-04,13:30:00,Afternoon, 4-5,Neutral,Missouri Tournament
+GME0298,2017-03-04,16:00:00,Afternoon, 0-2,Away,Missouri Tournament
+GME0299,2017-03-05,13:30:00,Afternoon, 9-8,Away,Missouri Tournament
+GME0300,2017-03-10,12:00:00,Afternoon, 2-8,Neutral,Highlander Classic
+GME0301,2017-03-10,14:30:00,Afternoon, 4-8,Neutral,Highlander Classic
+GME0302,2017-03-11,17:00:00,Evening, 6-3,Away,Highlander Classic
+GME0303,2017-03-12,12:00:00,Afternoon, 2-6,Neutral,Highlander Classic
+GME0304,2017-03-18,12:30:00,Afternoon, 5-4,Home,Maryland Invitational
+GME0305,2017-03-18,17:30:00,Evening, 6-3,Home,Maryland Invitational
+GME0306,2017-03-19,14:00:00,Afternoon, 7-9,Home,Maryland Invitational
+GME0307,2017-03-19,16:30:00,Afternoon, 0-8,Home,Maryland Invitational
+GME0308,2017-03-20,15:00:00,Afternoon, 3-0,Home,
+GME0309,2017-03-24,18:00:00,Evening, 2-6,Home,
+GME0310,2017-03-25,13:00:00,Afternoon, 6-10,Home,
+GME0311,2017-03-26,13:00:00,Afternoon, 0-22,Home,
+GME0312,2017-03-31,16:00:00,Afternoon, 3-11,Away,
+GME0313,2017-04-01,13:00:00,Afternoon, 0-2,Away,
+GME0314,2017-04-02,13:00:00,Afternoon, 2-6,Away,
+GME0315,2017-04-08,13:00:00,Afternoon, 4-11,Away,
+GME0316,2017-04-08,15:00:00,Afternoon, 5-6,Away,
+GME0317,2017-04-09,13:00:00,Afternoon, 5-4,Away,
+GME0318,2017-04-14,18:00:00,Evening, 1-5,Home,
+GME0319,2017-04-15,13:00:00,Afternoon, 2-1,Home,
+GME0320,2017-04-16,13:00:00,Afternoon, 3-4,Home,
+GME0321,2017-04-21,13:00:00,Afternoon, 1-2,Away,
+GME0322,2017-04-21,15:00:00,Afternoon, 0-5,Away,
+GME0323,2017-04-23,13:00:00,Afternoon, 1-2,Away,
+GME0324,2017-04-28,18:00:00,Evening, 3-10,Home,
+GME0325,2017-04-29,13:00:00,Afternoon, 2-1,Home,
+GME0326,2017-04-30,13:00:00,Afternoon, 5-7,Home,
+GME0327,2017-05-03,13:00:00,Afternoon, 4-3,Away,
+GME0328,2017-05-03,16:30:00,Afternoon, 3-4,Away,
+GME0329,2017-05-05,18:00:00,Evening, 3-8,Home,
+GME0330,2017-05-06,15:30:00,Afternoon, 3-5,Home,
+GME0331,2017-05-07,13:00:00,Afternoon, 0-5,Home,
+GME0332,2016-02-12,11:30:00,Morning, 1-9,Neutral,
+GME0333,2016-02-12,16:00:00,Afternoon, 9-4,Neutral,
+GME0334,2016-02-13,11:30:00,Morning, 2-7,Neutral,
+GME0335,2016-02-13,14:00:00,Afternoon, 13-9,Neutral,
+GME0336,2016-02-14,11:00:00,Morning, 0-5,Neutral,
+GME0337,2016-02-19,12:30:00,Afternoon, 0-1,Neutral,
+GME0338,2016-02-19,17:30:00,Evening, 3-4,Away,
+GME0339,2016-02-20,15:00:00,Afternoon, 6-5,Neutral,
+GME0340,2016-02-20,17:30:00,Evening, 1-7,Neutral,
+GME0341,2016-02-21,10:00:00,Morning, 5-10,Neutral,
+GME0342,2016-02-26,11:15:00,Morning, 3-2,Neutral,
+GME0343,2016-02-26,13:30:00,Afternoon, 1-4,Neutral,
+GME0344,2016-02-27,13:30:00,Afternoon, 2-4,Neutral,
+GME0345,2016-02-27,20:15:00,Night, 8-7,Away,
+GME0346,2016-02-28,11:15:00,Morning, 4-10,Neutral,
+GME0347,2016-03-04,15:30:00,Afternoon, 4-5,Neutral,
+GME0348,2016-03-05,11:00:00,Morning, 2-11,Neutral,
+GME0349,2016-03-05,13:30:00,Afternoon, 7-9,Neutral,
+GME0350,2016-03-06,11:00:00,Morning, 5-4,Neutral,
+GME0351,2016-03-11,12:00:00,Afternoon, 2-11,Neutral,
+GME0352,2016-03-11,14:15:00,Afternoon, 4-7,Neutral,
+GME0353,2016-03-12,14:15:00,Afternoon, 8-0,Neutral,
+GME0354,2016-03-12,18:45:00,Evening, 2-11,Away,
+GME0355,2016-03-13,13:00:00,Afternoon, 0-11,Away,
+GME0356,2016-03-18,16:30:00,Afternoon, 4-5,Home,
+GME0357,2016-03-18,18:45:00,Evening, 1-10,Home,
+GME0358,2016-03-20,16:00:00,Afternoon, 3-9,Home,
+GME0359,2016-03-25,18:00:00,Evening, 2-12,Away,
+GME0360,2016-03-26,14:00:00,Afternoon, 3-4,Away,
+GME0361,2016-03-27,13:00:00,Afternoon, 4-13,Away,
+GME0362,2016-04-01,18:00:00,Evening, 7-4,Home,
+GME0363,2016-04-02,14:00:00,Afternoon, 2-14,Home,
+GME0364,2016-04-03,13:00:00,Afternoon, 4-26,Home,
+GME0365,2016-04-05,16:00:00,Afternoon, 6-3,Home,PA
+GME0366,2016-04-05,18:15:00,Evening, 3-7,Home,PA
+GME0367,2016-04-08,18:00:00,Evening, 3-12,Home,
+GME0368,2016-04-10,11:00:00,Morning, 10-2,Home,
+GME0369,2016-04-10,13:00:00,Afternoon, 9-8,Home,
+GME0370,2016-04-15,18:00:00,Evening, 6-9,Away,
+GME0371,2016-04-16,16:00:00,Afternoon, 0-4,Away,
+GME0372,2016-04-17,13:00:00,Afternoon, 3-5,Away,
+GME0373,2016-04-20,15:00:00,Afternoon, 0-4,Home,
+GME0374,2016-04-20,17:00:00,Evening, 3-6,Home,
+GME0375,2016-04-22,18:00:00,Evening, 1-9,Away,
+GME0376,2016-04-23,14:00:00,Afternoon, 0-16,Away,
+GME0377,2016-04-24,13:00:00,Afternoon, 0-8,Away,
+GME0378,2016-04-29,19:00:00,Evening, 0-10,Away,
+GME0379,2016-04-30,14:00:00,Afternoon, 1-11,Away,
+GME0380,2016-05-01,13:00:00,Afternoon, 0-9,Away,
+GME0381,2016-05-07,13:00:00,Afternoon, 3-8,Home,
+GME0382,2016-05-07,15:00:00,Afternoon, 1-12,Home,
+GME0383,2016-05-08,13:00:00,Afternoon, 10-8,Home,
+GME0384,2015-02-06,12:00:00,Afternoon, 6-7,Neutral,Coastal Carolina Kickin' Chicken Classic
+GME0385,2015-02-07,10:00:00,Morning, 8-2,Neutral,Coastal Carolina Kickin' Chicken Classic
+GME0386,2015-02-07,12:30:00,Afternoon, 10-11,Neutral,Coastal Carolina Kickin' Chicken Classic
+GME0387,2015-02-08,11:45:00,Morning, 3-1,Away,Coastal Carolina Kickin' Chicken Classic
+GME0388,2015-02-08,14:15:00,Afternoon, 3-1,Away,Coastal Carolina Kickin' Chicken Classic
+GME0389,2015-02-13,11:15:00,Morning, 4-0,Neutral,"FAU ""Strike-Out Cancer"" Tournament"
+GME0390,2015-02-13,13:30:00,Afternoon, 6-0,Neutral,"FAU ""Strike-Out Cancer"" Tournament"
+GME0391,2015-02-14,9:00:00,Morning, 0-1,Neutral,"FAU ""Strike-Out Cancer"" Tournament"
+GME0392,2015-02-14,13:30:00,Afternoon, 3-1,Neutral,"FAU ""Strike-Out Cancer"" Tournament"
+GME0393,2015-02-15,13:30:00,Afternoon, 5-6,Away,"FAU ""Strike-Out Cancer"" Tournament"
+GME0394,2015-02-19,18:00:00,Evening, 6-8,Neutral,Mary Nutter Classic
+GME0395,2015-02-19,21:00:00,Night, 2-1,Neutral,Mary Nutter Classic
+GME0396,2015-02-20,23:30:00,Night, 4-3,Neutral,Mary Nutter Classic
+GME0397,2015-02-21,15:30:00,Afternoon, 5-2,Neutral,Mary Nutter Classic
+GME0398,2015-02-21,23:00:00,Night, 10-7,Neutral,Mary Nutter Classic
+GME0399,2015-02-27,11:00:00,Morning, 2-6,Neutral,ESPN Citrus Classic
+GME0400,2015-02-27,15:30:00,Afternoon, 2-6,Neutral,ESPN Citrus Classic
+GME0401,2015-03-01,10:00:00,Morning, 1-5,Neutral,ESPN Citrus Classic
+GME0402,2015-03-01,12:15:00,Afternoon, 10-0 ,Neutral,ESPN Citrus Classic
+GME0403,2015-03-03,14:30:00,Afternoon, 6-8,Away,
+GME0404,2015-03-07,13:00:00,Afternoon, 18-3,Neutral,JMU Invitational
+GME0405,2015-03-08,12:00:00,Afternoon, 2-1,Neutral,JMU Invitational
+GME0406,2015-03-08,16:30:00,Afternoon, 5-10,Neutral,JMU Invitational
+GME0407,2015-03-15,16:00:00,Afternoon, 9-1,Home,UMD/GW Capital Invite
+GME0408,2015-03-15,18:00:00,Evening, 9-1,Home,UMD/GW Capital Invite
+GME0409,2015-03-16,11:00:00,Morning, 6-5,Home,UMD/GW Capital Invite
+GME0410,2015-03-17,15:00:00,Afternoon, 2-3,Home,
+GME0411,2015-03-17,17:00:00,Evening, 2-5,Home,
+GME0412,2015-03-20,17:00:00,Evening, 15-14,Away,
+GME0413,2015-03-21,15:00:00,Afternoon, 4-8,Away,
+GME0414,2015-03-22,14:00:00,Afternoon, 19-0 ,Away,
+GME0415,2015-03-25,17:00:00,Evening, 18-8,Home,
+GME0416,2015-03-25,19:00:00,Evening, 5-8,Home,
+GME0417,2015-03-27,18:00:00,Evening, 11-10,Home,
+GME0418,2015-03-29,12:00:00,Afternoon, 6-18,Home,
+GME0419,2015-03-29,15:00:00,Afternoon, 6-18,Home,
+GME0420,2015-04-04,12:00:00,Afternoon, 6-3,Away,
+GME0421,2015-04-04,15:00:00,Afternoon, 8-11,Away,
+GME0422,2015-04-05,13:00:00,Afternoon, 21-8,Away,
+GME0423,2015-04-10,13:00:00,Afternoon, 3-7,Home,
+GME0424,2015-04-11,13:00:00,Afternoon, 8-14,Home,
+GME0425,2015-04-12,12:30:00,Afternoon, 4-5,Home,
+GME0426,2015-04-17,18:00:00,Evening, 8-6,Home,
+GME0427,2015-04-18,13:00:00,Afternoon, 7-6,Home,
+GME0428,2015-04-19,11:00:00,Morning, 5-3,Home,
+GME0429,2015-04-21,14:00:00,Afternoon, 5-6,Away,
+GME0430,2015-04-21,16:00:00,Afternoon, 3-11,Away,
+GME0431,2015-04-24,17:00:00,Evening, 0-8,Home,
+GME0432,2015-04-25,13:00:00,Afternoon, 5-9,Home,
+GME0433,2015-04-26,13:00:00,Afternoon, 0-1,Home,
+GME0434,2015-05-01,16:00:00,Afternoon, 3-4,Away,
+GME0435,2015-05-02,13:00:00,Afternoon, 6-5,Away,
+GME0436,2015-05-03,13:00:00,Afternoon, 4-7,Away,
+GME0437,2015-05-07,14:30:00,Afternoon, 6-10,Neutral,Big Ten Tournament
+GME0438,2014-02-07,11:00:00,Morning, 4-8,Neutral,Florida International Tournament
+GME0439,2014-02-07,16:00:00,Afternoon, 9-14,Away,Florida International Tournament
+GME0440,2014-02-08,10:00:00,Morning, 2-6,Neutral,Florida International Tournament
+GME0441,2014-02-08,13:00:00,Afternoon, 5-6,Neutral,Florida International Tournament
+GME0442,2014-02-09,11:00:00,Morning, 0-1,Neutral,Florida International Tournament
+GME0443,2014-02-14,15:00:00,Afternoon, 1-3,Away,Florida Atlantic Tournament
+GME0444,2014-02-14,17:30:00,Evening, 8-4,Away,Florida Atlantic Tournament
+GME0445,2014-02-15,12:30:00,Afternoon, 2-8,Away,Florida Atlantic Tournament
+GME0446,2014-02-15,17:30:00,Evening, 0-4,Away,Florida Atlantic Tournament
+GME0447,2014-02-16,13:00:00,Afternoon, 1-2,Away,Florida Atlantic Tournament
+GME0448,2014-02-20,18:00:00,Evening, 0-11,Away,Cathedral City Classic
+GME0449,2014-02-20,20:30:00,Night, 5-11,Away,Cathedral City Classic
+GME0450,2014-02-21,13:00:00,Afternoon, 1-2,Away,Cathedral City Classic
+GME0451,2014-02-22,20:00:00,Night, 5-10,Neutral,Cathedral City Classic
+GME0452,2014-02-22,22:30:00,Night, 0-4,Neutral,Cathedral City Classic
+GME0453,2014-02-28,13:15:00,Afternoon, 1-4,Neutral,Citrus Classic
+GME0454,2014-02-28,15:30:00,Afternoon, 1-6,Neutral,Citrus Classic
+GME0455,2014-03-01,15:30:00,Afternoon, 3-16,Neutral,Citrus Classic
+GME0456,2014-03-01,17:45:00,Evening, 2-10,Neutral,Citrus Classic
+GME0457,2014-03-02,10:00:00,Morning, 0-16,Neutral,Citrus Classic
+GME0458,2014-03-15,13:00:00,Afternoon, 4-7,Home,
+GME0459,2014-03-15,15:00:00,Afternoon, 1-4,Home,
+GME0460,2014-03-16,13:00:00,Afternoon, 6-7,Home,
+GME0461,2014-03-22,13:00:00,Afternoon, 5-11,Away,
+GME0462,2014-03-22,15:00:00,Afternoon, 12-11,Away,
+GME0463,2014-03-23,10:00:00,Morning, 3-12,Away,
+GME0464,2014-04-02,15:00:00,Afternoon, 4-9,Home,
+GME0465,2014-04-02,17:00:00,Evening, 7-6,Home,
+GME0466,2014-04-05,10:00:00,Morning, 2-10,Away,
+GME0467,2014-04-05,12:00:00,Afternoon, 6-14,Away,
+GME0468,2014-04-06,11:00:00,Morning, 5-7,Away,
+GME0469,2014-04-12,13:00:00,Afternoon, 0-8,Away,
+GME0470,2014-04-12,15:00:00,Afternoon, 2-4,Away,
+GME0471,2014-04-13,13:00:00,Afternoon, 4-2,Away,
+GME0472,2014-04-16,17:00:00,Evening, 10-2,Home,
+GME0473,2014-04-19,13:00:00,Afternoon, 0-3,Home,
+GME0474,2014-04-19,15:00:00,Afternoon, 6-8,Home,
+GME0475,2014-04-20,13:00:00,Afternoon, 8-1,Home,
+GME0476,2014-04-23,17:00:00,Evening, 15-0,Home,
+GME0477,2014-04-23,19:00:00,Evening, 10-4,Home,
+GME0478,2014-04-27,13:00:00,Afternoon, 0-9,Away,
+GME0479,2014-04-27,15:00:00,Afternoon, 5-8,Away,
+GME0480,2014-04-28,19:00:00,Evening, 1-9,Away,
+GME0481,2014-05-03,13:00:00,Afternoon, 8-0,Home,
+GME0482,2014-05-03,15:00:00,Afternoon, 7-6,Home,
+GME0483,2014-05-04,13:00:00,Afternoon, 7-5,Home,
+GME0484,2013-02-15,11:00:00,Morning, 5-3,Neutral,Florida Atlantic Tournament
+GME0485,2013-02-16,10:00:00,Morning, 16-8,Away,Florida Atlantic Tournament
+GME0486,2013-02-16,12:00:00,Afternoon, 2-10,Neutral,Florida Atlantic Tournament
+GME0487,2013-02-17,13:00:00,Afternoon, 18-1,Neutral,Florida Atlantic Tournament
+GME0488,2013-02-21,16:00:00,Afternoon, 1-13,Neutral,Mary Nutter Collegiate Classic
+GME0489,2013-02-21,23:30:00,Night, 0-8,Neutral,Mary Nutter Collegiate Classic
+GME0490,2013-02-22,23:30:00,Night, 1-8,Neutral,Mary Nutter Collegiate Classic
+GME0491,2013-02-23,15:00:00,Afternoon, 3-4,Neutral,Mary Nutter Collegiate Classic
+GME0492,2013-02-23,17:30:00,Evening, 2-3,Neutral,Mary Nutter Collegiate Classic
+GME0493,2013-03-01,11:00:00,Morning, 10-2,Neutral,ESPN's Citrus Classic
+GME0494,2013-03-01,15:30:00,Afternoon, 3-4,Neutral,ESPN's Citrus Classic
+GME0495,2013-03-02,12:15:00,Afternoon, 3-11,Neutral,ESPN's Citrus Classic
+GME0496,2013-03-02,16:45:00,Afternoon, 7-9,Neutral,ESPN's Citrus Classic
+GME0497,2013-03-03,13:30:00,Afternoon, 3-5,Neutral,ESPN's Citrus Classic
+GME0498,2013-03-05,15:30:00,Afternoon, 2-6,Home,
+GME0499,2013-03-08,15:00:00,Afternoon, 3-2,Home,Maryland Miken Invitational
+GME0500,2013-03-08,17:00:00,Evening, 3-4,Home,Maryland Miken Invitational
+GME0501,2013-03-09,11:00:00,Morning, 4-9,Home,Maryland Miken Invitational
+GME0502,2013-03-09,13:00:00,Afternoon, 9-10,Home,Maryland Miken Invitational
+GME0503,2013-03-10,13:00:00,Afternoon, 10-9,Home,Maryland Miken Invitational
+GME0504,2013-03-12,17:00:00,Evening, 14-6,Home,
+GME0505,2013-03-12,19:00:00,Evening, 13-5,Home,
+GME0506,2013-03-15,16:00:00,Afternoon, 3-2,Neutral,USF Under Armour Invitational
+GME0507,2013-03-15,18:15:00,Evening, 0-1,Neutral,USF Under Armour Invitational
+GME0508,2013-03-16,11:00:00,Morning, 6-1,Neutral,USF Under Armour Invitational
+GME0509,2013-03-16,16:00:00,Afternoon, 4-0,Neutral,USF Under Armour Invitational
+GME0510,2013-03-17,11:45:00,Morning, 0-4,Neutral,USF Under Armour Invitational
+GME0511,2013-03-23,13:00:00,Afternoon, 6-5,Home,
+GME0512,2013-03-23,15:00:00,Afternoon, 9-6,Home,
+GME0513,2013-03-24,13:00:00,Afternoon, 6-5,Home,
+GME0514,2013-03-27,17:00:00,Evening, 20-0,Home,
+GME0515,2013-03-27,19:00:00,Evening, 13-0,Home,
+GME0516,2013-03-30,13:00:00,Afternoon, 5-4,Home,
+GME0517,2013-03-30,15:00:00,Afternoon, 1-13,Home,
+GME0518,2013-03-31,12:00:00,Afternoon, 9-14,Home,
+GME0519,2013-04-03,16:00:00,Afternoon, 9-0,Home,
+GME0520,2013-04-03,18:00:00,Evening, 7-3,Home,
+GME0521,2013-04-06,13:00:00,Afternoon, 2-1,Away,
+GME0522,2013-04-06,15:00:00,Afternoon, 0-4,Away,
+GME0523,2013-04-07,13:00:00,Afternoon, 1-7,Away,
+GME0524,2013-04-10,16:00:00,Afternoon, 3-8,Away,
+GME0525,2013-04-10,18:00:00,Evening, 4-3,Away,
+GME0526,2013-04-13,13:00:00,Afternoon, 8-6,Away,
+GME0527,2013-04-13,15:00:00,Afternoon, 4-5,Away,
+GME0528,2013-04-14,13:00:00,Afternoon, 14-5,Away,
+GME0529,2013-04-20,13:00:00,Afternoon, 6-0,Home,
+GME0530,2013-04-20,15:00:00,Afternoon, 6-8,Home,
+GME0531,2013-04-21,13:00:00,Afternoon, 10-1,Home,
+GME0532,2013-04-24,17:00:00,Evening, 11-0,Home,
+GME0533,2013-04-24,19:00:00,Evening, 12-3,Home,
+GME0534,2013-04-27,13:00:00,Afternoon, 9-4,Home,
+GME0535,2013-04-27,15:00:00,Afternoon, 9-1,Home,
+GME0536,2013-04-28,13:00:00,Afternoon, 1-8,Home,
+GME0537,2013-05-04,12:00:00,Afternoon, 3-1,Away,
+GME0538,2013-05-04,14:00:00,Afternoon, 9-7,Away,
+GME0539,2013-05-05,13:00:00,Afternoon, 0-4,Away,
+GME0540,2013-05-09,11:00:00,Morning, 5-8,Neutral,ACC Tournament
+GME0541,2012-02-17,11:00:00,Morning, 7-3,Home,
+GME0542,2012-02-17,9:00:00,Morning, 3-1,Home,
+GME0543,2012-02-18,16:00:00,Afternoon, 0-8,Home,
+GME0544,2012-02-18,20:00:00,Night, 4-1,Home,
+GME0545,2012-02-19,11:00:00,Morning, 2-1,Home,
+GME0546,2012-02-22,15:00:00,Afternoon, 7-3,Home,
+GME0547,2012-02-22,17:00:00,Evening, 10-2,Home,
+GME0548,2012-02-24,12:15:00,Afternoon, 12-8,Home,
+GME0549,2012-02-24,14:30:00,Afternoon, 10-2,Away,
+GME0550,2012-02-25,14:30:00,Afternoon, 4-3,Home,
+GME0551,2012-02-25,16:45:00,Afternoon, 3-11,Away,
+GME0552,2012-02-26,10:00:00,Morning, 2-1,Home,
+GME0553,2012-03-02,12:00:00,Afternoon, 6-16,Home,
+GME0554,2012-03-02,14:30:00,Afternoon, 1-19,Away,
+GME0555,2012-03-03,12:00:00,Afternoon, 4-2,Away,
+GME0556,2012-03-03,17:00:00,Evening, 1-9,Home,
+GME0557,2012-03-04,12:00:00,Afternoon, 1-4,Home,
+GME0558,2012-03-09,15:00:00,Afternoon, 7-3,Home,
+GME0559,2012-03-09,17:30:00,Evening, 17-7,Away,
+GME0560,2012-03-10,15:00:00,Afternoon, 10-6,Home,
+GME0561,2012-03-10,17:30:00,Evening, 2-1,Away,
+GME0562,2012-03-11,13:30:00,Afternoon, 5-0,Home,
+GME0563,2012-03-16,16:30:00,Afternoon, 4-6,Home,
+GME0564,2012-03-16,18:45:00,Evening, 8-0,Home,
+GME0565,2012-03-17,16:00:00,Afternoon, 0-1,Home,
+GME0566,2012-03-17,18:15:00,Evening, 5-0,Away,
+GME0567,2012-03-18,11:15:00,Morning, 0-9,Home,
+GME0568,2012-03-21,17:00:00,Evening, 1-3,Away,
+GME0569,2012-03-21,19:00:00,Evening, 1-9,Away,
+GME0570,2012-03-31,13:00:00,Afternoon, 0-5,Home,
+GME0571,2012-03-31,15:00:00,Afternoon, 5-7,Home,
+GME0572,2012-04-01,13:00:00,Afternoon, 1-5,Home,
+GME0573,2012-04-04,17:00:00,Evening, 3-1,Home,
+GME0574,2012-04-04,19:00:00,Evening, 6-3,Home,
+GME0575,2012-04-07,13:00:00,Afternoon, 1-6,Away,
+GME0576,2012-04-07,15:00:00,Afternoon, 6-9,Away,
+GME0577,2012-04-08,14:00:00,Afternoon, 0-5,Away,
+GME0578,2012-04-14,13:00:00,Afternoon, 3-1,Home,
+GME0579,2012-04-14,15:00:00,Afternoon, 6-5,Home,
+GME0580,2012-04-15,13:00:00,Afternoon, 8-0,Home,
+GME0581,2012-04-18,17:00:00,Evening, 9-0,Home,
+GME0582,2012-04-18,19:00:00,Evening, 10-0,Home,
+GME0583,2012-04-21,13:00:00,Afternoon, 5-3,Away,
+GME0584,2012-04-21,15:00:00,Afternoon, 4-5,Away,
+GME0585,2012-04-22,12:00:00,Afternoon, 4-3,Away,
+GME0586,2012-04-25,17:00:00,Evening, 15-0,Home,
+GME0587,2012-04-25,19:00:00,Evening, 10-5,Home,
+GME0588,2012-04-28,13:00:00,Afternoon, 4-3,Away,
+GME0589,2012-04-28,15:00:00,Afternoon, 4-1,Away,
+GME0590,2012-04-29,13:00:00,Afternoon, 11-0,Away,
+GME0591,2012-05-05,13:00:00,Afternoon, 3-4,Home,
+GME0592,2012-05-05,15:00:00,Afternoon, 4-1,Home,
+GME0593,2012-05-06,12:00:00,Afternoon, 4-3,Home,
+GME0594,2012-05-10,19:30:00,Evening, 2-5,Away,
+GME0595,2012-05-18,18:30:00,Evening, 1-6,Away,
+GME0596,2012-05-19,18:30:00,Evening, 2-3,Home,
+GME0597,2011-02-11,15:00:00,Afternoon, 0-1,Home,
+GME0598,2011-02-12,17:00:00,Evening, 0-5,Away,
+GME0599,2011-02-12,19:00:00,Evening, 4-3,Home,
+GME0600,2011-02-13,11:00:00,Morning, 3-1,Home,
+GME0601,2011-02-13,13:00:00,Afternoon, 2-8,Away,
+GME0602,2011-02-25,13:00:00,Afternoon, 3-5,Away,
+GME0603,2011-02-25,9:00:00,Morning, 1-0,Home,
+GME0604,2011-02-26,11:00:00,Morning, 2-1,Home,
+GME0605,2011-02-26,9:00:00,Morning, 3-1,Away,
+GME0606,2011-02-27,13:00:00,Afternoon, 5-4,Home,
+GME0607,2011-03-04,12:30:00,Afternoon, 7-9,Home,
+GME0608,2011-03-04,15:00:00,Afternoon, 1-3,Away,
+GME0609,2011-03-05,12:30:00,Afternoon, 16-0,Home,
+GME0610,2011-03-05,15:00:00,Afternoon, 3-5,Home,
+GME0611,2011-03-06,11:30:00,Morning, 1-0,Home,
+GME0612,2011-03-09,17:00:00,Evening, 2-3,Home,
+GME0613,2011-03-09,19:00:00,Evening, 4-2,Home,
+GME0614,2011-03-11,15:00:00,Afternoon, 4-6,Home,
+GME0615,2011-03-11,20:00:00,Night, 6-0,Away,
+GME0616,2011-03-12,12:30:00,Afternoon, 4-3,Home,
+GME0617,2011-03-12,15:00:00,Afternoon, 4-1,Home,
+GME0618,2011-03-13,12:00:00,Afternoon, 4-1,Home,
+GME0619,2011-03-16,17:00:00,Evening, 7-1,Home,
+GME0620,2011-03-16,19:00:00,Evening, 5-4,Home,
+GME0621,2011-03-18,12:15:00,Afternoon, 6-0,Home,
+GME0622,2011-03-19,11:15:00,Morning, 6-0,Home,
+GME0623,2011-03-19,13:30:00,Afternoon, 5-0,Away,
+GME0624,2011-03-20,12:15:00,Afternoon, 9-1,Home,
+GME0625,2011-03-20,14:30:00,Afternoon, 1-0,Away,
+GME0626,2011-03-26,12:00:00,Afternoon, 13-0,Away,
+GME0627,2011-03-26,14:00:00,Afternoon, 7-0,Away,
+GME0628,2011-04-02,13:00:00,Afternoon, 2-5,Home,
+GME0629,2011-04-02,15:00:00,Afternoon, 3-4,Home,
+GME0630,2011-04-03,13:00:00,Afternoon, 0-2,Home,
+GME0631,2011-04-06,17:00:00,Evening, 10-0,Home,
+GME0632,2011-04-06,19:00:00,Evening, 1-0,Home,
+GME0633,2011-04-09,13:00:00,Afternoon, 4-3,Home,
+GME0634,2011-04-09,15:00:00,Afternoon, 1-0,Home,
+GME0635,2011-04-10,13:00:00,Afternoon, 4-3,Home,
+GME0636,2011-04-17,11:00:00,Morning, 3-1,Home,
+GME0637,2011-04-17,13:00:00,Afternoon, 1-2,Home,
+GME0638,2011-04-19,17:00:00,Evening, 5-0,Home,
+GME0639,2011-04-19,19:00:00,Evening, 3-2,Home,
+GME0640,2011-04-23,13:00:00,Afternoon, 1-0,Away,
+GME0641,2011-04-23,15:00:00,Afternoon, 7-4,Away,
+GME0642,2011-04-24,12:00:00,Afternoon, 0-5,Away,
+GME0643,2011-04-27,17:00:00,Evening, 13-0,Home,
+GME0644,2011-04-27,19:00:00,Evening, 3-1,Home,
+GME0645,2011-04-30,12:00:00,Afternoon, 3-2,Away,
+GME0646,2011-04-30,14:00:00,Afternoon, 3-2,Away,
+GME0647,2011-05-01,13:00:00,Afternoon, 2-0,Away,
+GME0648,2011-05-07,13:00:00,Afternoon, 0-2,Home,
+GME0649,2011-05-07,15:00:00,Afternoon, 5-6,Home,
+GME0650,2011-05-08,13:00:00,Afternoon, 5-0,Home,
+GME0651,2011-05-13,12:00:00,Afternoon, 4-3,Home,
+GME0652,2011-05-14,13:00:00,Afternoon, 3-7,Home,
+GME0653,2011-05-20,19:30:00,Evening, 1-5,Home,
+GME0654,2011-05-21,14:30:00,Afternoon, 11-0,Away,
+GME0655,2011-05-21,17:00:00,Evening, 0-2,Home,
+GME0656,2010-02-19,16:00:00,Afternoon, 0-1,Home,
+GME0657,2010-02-19,20:00:00,Night, 2-1,Home,
+GME0658,2010-02-20,11:00:00,Morning, 4-3,Home,
+GME0659,2010-02-20,16:00:00,Afternoon, 0-2,Home,
+GME0660,2010-02-21,11:00:00,Morning, 1-2,Away,
+GME0661,2010-02-26,13:30:00,Afternoon, 1-4,Away,
+GME0662,2010-02-26,18:30:00,Evening, 11-1,Home,
+GME0663,2010-02-27,16:00:00,Afternoon, 4-5,Home,
+GME0664,2010-02-27,18:30:00,Evening, 3-2,Home,
+GME0665,2010-02-28,12:30:00,Afternoon, 0-9,Home,
+GME0666,2010-03-05,14:30:00,Afternoon, 9-0,Home,
+GME0667,2010-03-05,17:00:00,Evening, 2-0,Home,
+GME0668,2010-03-06,15:00:00,Afternoon, 0-2,Home,
+GME0669,2010-03-06,17:30:00,Evening, 7-5,Home,
+GME0670,2010-03-07,12:30:00,Afternoon, 4-2,Home,
+GME0671,2010-03-10,17:00:00,Evening, 3-0,Home,
+GME0672,2010-03-10,19:00:00,Evening, 9-1,Home,
+GME0673,2010-03-14,13:00:00,Afternoon, 3-5,Home,
+GME0674,2010-03-14,15:00:00,Afternoon, 1-3,Home,
+GME0675,2010-03-17,11:00:00,Morning, 9-1,Home,
+GME0676,2010-03-17,9:00:00,Morning, 9-1,Home,
+GME0677,2010-03-19,13:00:00,Afternoon, 2-1,Neutral,University of South Florida Tournament
+GME0678,2010-03-19,18:00:00,Evening, 3-0,Home,
+GME0679,2010-03-20,10:00:00,Morning, 1-0,Home,
+GME0680,2010-03-20,12:00:00,Afternoon, 11-4,Home,
+GME0681,2010-03-21,9:00:00,Morning, 3-2,Home,
+GME0682,2010-03-24,17:00:00,Evening, 8-0,Home,
+GME0683,2010-03-24,19:00:00,Evening, 9-7,Home,
+GME0684,2010-03-27,13:00:00,Afternoon, 8-9,Away,
+GME0685,2010-03-27,15:00:00,Afternoon, 1-3,Away,
+GME0686,2010-03-28,9:00:00,Morning, 0-1,Away,
+GME0687,2010-03-30,17:00:00,Evening, 0-2,Home,
+GME0688,2010-03-30,19:00:00,Evening, 10-2,Home,
+GME0689,2010-04-03,13:00:00,Afternoon, 0-2,Home,
+GME0690,2010-04-03,15:00:00,Afternoon, 2-3,Home,
+GME0691,2010-04-04,13:00:00,Afternoon, 6-2,Home,
+GME0692,2010-04-07,17:00:00,Evening, 8-0,Home,
+GME0693,2010-04-07,19:00:00,Evening, 8-0,Home,
+GME0694,2010-04-10,13:00:00,Afternoon, 7-0,Home,
+GME0695,2010-04-10,15:00:00,Afternoon, 1-2,Home,
+GME0696,2010-04-11,13:00:00,Afternoon, 7-3,Home,
+GME0697,2010-04-14,16:00:00,Afternoon, 0-1,Away,
+GME0698,2010-04-17,13:00:00,Afternoon, 5-2,Away,
+GME0699,2010-04-17,15:00:00,Afternoon, 2-1,Away,
+GME0700,2010-04-18,13:00:00,Afternoon, 0-4,Away,
+GME0701,2010-04-24,12:00:00,Afternoon, 0-2,Away,
+GME0702,2010-04-24,15:00:00,Afternoon, 2-0,Away,
+GME0703,2010-04-25,12:30:00,Afternoon, 1-0,Away,
+GME0704,2010-04-28,17:00:00,Evening, 8-0,Home,
+GME0705,2010-04-28,19:00:00,Evening, 5-1,Home,
+GME0706,2010-05-01,13:00:00,Afternoon, 3-1,Home,
+GME0707,2010-05-01,15:00:00,Afternoon, 1-5,Home,
+GME0708,2010-05-09,11:30:00,Morning, 5-1,Away,
+GME0709,2010-05-09,13:30:00,Afternoon, 3-6,Away,
+GME0710,2010-05-14,12:00:00,Afternoon, 0-3,Away,
+GME0711,2010-05-21,19:00:00,Evening, 1-2,Away,
+GME0712,2010-05-22,14:00:00,Afternoon, 4-1,Away,
+GME0713,2010-05-22,16:00:00,Afternoon, 2-5,Home,
+GME0714,2009-02-06,16:00:00,Afternoon, 3-8,Home,
+GME0715,2009-02-06,20:00:00,Night, 2-3,Away,
+GME0716,2009-02-07,11:00:00,Morning, 0-1,Home,
+GME0717,2009-02-07,13:00:00,Afternoon, 0-8,Away,
+GME0718,2009-02-08,11:00:00,Morning, 0-4,Away,
+GME0719,2009-02-19,23:00:00,Night, 3-2,Away,
+GME0720,2009-02-19,18:30:00,Evening, 7-3,Away,
+GME0721,2009-02-20,18:30:00,Evening, 1-2,Home,
+GME0722,2009-02-21,23:00:00,Night, 8-7,Home,
+GME0723,2009-02-21,15:30:00,Afternoon, 0-7,Home,
+GME0724,2009-02-22,14:00:00,Afternoon, 0-5,Away,
+GME0725,2009-02-27,13:30:00,Afternoon, 8-3,Home,
+GME0726,2009-02-27,18:30:00,Evening, 3-2,Away,
+GME0727,2009-02-28,11:00:00,Morning, 1-10,Away,
+GME0728,2009-02-28,13:30:00,Afternoon, 3-0,Home,
+GME0729,2009-03-07,12:00:00,Afternoon, 6-0,Home,
+GME0730,2009-03-07,14:00:00,Afternoon, 2-4,Home,
+GME0731,2009-03-08,11:00:00,Morning, 1-0,Home,
+GME0732,2009-03-08,,Night, 10-2,Home,
+GME0733,2009-03-11,17:00:00,Evening, 7-3,Home,
+GME0734,2009-03-13,15:00:00,Afternoon, 11-1,Home,
+GME0735,2009-03-14,13:00:00,Afternoon, 4-3,Away,
+GME0736,2009-03-14,15:00:00,Afternoon, 2-6,Home,
+GME0737,2009-03-15,15:00:00,Afternoon, 7-1,Home,
+GME0738,2009-03-15,17:00:00,Evening, 8-4,Home,
+GME0739,2009-03-21,13:00:00,Afternoon, 0-7,Home,
+GME0740,2009-03-21,15:00:00,Afternoon, 2-10,Home,
+GME0741,2009-03-22,13:00:00,Afternoon, 1-2,Home,
+GME0742,2009-03-25,17:00:00,Evening, 2-7,Home,
+GME0743,2009-03-28,12:00:00,Afternoon, 0-1,Home,
+GME0744,2009-03-28,14:00:00,Afternoon, 4-3,Home,
+GME0745,2009-03-29,13:00:00,Afternoon, 7-6,Home,
+GME0746,2009-04-04,13:00:00,Afternoon, 5-2,Away,
+GME0747,2009-04-04,15:00:00,Afternoon, 5-0,Away,
+GME0748,2009-04-05,13:00:00,Afternoon, 8-4,Away,
+GME0749,2009-04-08,17:00:00,Evening, 4-2,Home,
+GME0750,2009-04-08,19:00:00,Evening, 1-5,Home,
+GME0751,2009-04-11,16:00:00,Afternoon, 0-1,Away,
+GME0752,2009-04-11,18:00:00,Evening, 0-8,Away,
+GME0753,2009-04-12,13:00:00,Afternoon, 0-1,Away,
+GME0754,2009-04-18,13:00:00,Afternoon, 4-3,Home,
+GME0755,2009-04-18,15:00:00,Afternoon, 4-3,Home,
+GME0756,2009-04-19,13:00:00,Afternoon, 1-2,Home,
+GME0757,2009-04-23,17:00:00,Evening, 2-3,Home,
+GME0758,2009-04-23,19:00:00,Evening, 2-0,Home,
+GME0759,2009-04-25,12:00:00,Afternoon, 5-4,Away,
+GME0760,2009-04-25,15:00:00,Afternoon, 5-6,Away,
+GME0761,2009-04-26,13:00:00,Afternoon, 4-1,Away,
+GME0762,2009-04-28,17:00:00,Evening, 2-0,Home,
+GME0763,2009-04-28,19:00:00,Evening, 2-1,Home,
+GME0764,2009-04-29,17:00:00,Evening, 9-1,Home,
+GME0765,2009-04-29,19:00:00,Evening, 7-0,Home,
+GME0766,2009-05-02,13:00:00,Afternoon, 2-9,Home,
+GME0767,2009-05-02,15:00:00,Afternoon, 0-8,Home,
+GME0768,2009-05-08,19:30:00,Evening, 0-3,Home,
+GME0769,2008-02-08,11:00:00,Morning, 2-0,Away,
+GME0770,2008-02-08,13:00:00,Afternoon, 2-1,Home,
+GME0771,2008-02-09,13:00:00,Afternoon, 7-0,Home,
+GME0772,2008-02-10,11:00:00,Morning, 2-5,Home,
+GME0773,2008-02-16,11:00:00,Morning, 4-3,Away,
+GME0774,2008-02-16,13:30:00,Afternoon, 5-4,Away,
+GME0775,2008-02-17,11:00:00,Morning, 9-8,Home,
+GME0776,2008-02-17,13:30:00,Afternoon, 3-0,Away,
+GME0777,2008-02-27,14:00:00,Afternoon, 5-1,Home,
+GME0778,2008-02-27,16:00:00,Afternoon, 8-0,Home,
+GME0779,2008-02-29,12:00:00,Afternoon, 4-0,Away,
+GME0780,2008-02-29,14:00:00,Afternoon, 7-1,Home,
+GME0781,2008-03-01,12:00:00,Afternoon, 6-4,Home,
+GME0782,2008-03-02,14:00:00,Afternoon, 1-0,Home,
+GME0783,2008-03-05,16:00:00,Afternoon, 3-0,Home,
+GME0784,2008-03-05,18:00:00,Evening, 7-4,Home,
+GME0785,2008-03-08,15:00:00,Afternoon, 3-2,Home,
+GME0786,2008-03-09,14:00:00,Afternoon, 2-0,Home,
+GME0787,2008-03-09,16:00:00,Afternoon, 13-12,Home,
+GME0788,2008-03-12,16:00:00,Afternoon, 6-0,Home,
+GME0789,2008-03-12,18:00:00,Evening, 4-5,Home,
+GME0790,2008-03-14,17:00:00,Evening, 8-0,Home,
+GME0791,2008-03-15,13:00:00,Afternoon, 0-1,Home,
+GME0792,2008-03-15,17:00:00,Evening, 5-7,Home,
+GME0793,2008-03-16,13:00:00,Afternoon, 5-2,Home,
+GME0794,2008-03-16,15:00:00,Afternoon, 4-1,Home,
+GME0795,2008-03-21,17:00:00,Evening, 1-2,Away,
+GME0796,2008-03-22,13:00:00,Afternoon, 1-5,Away,
+GME0797,2008-03-22,15:00:00,Afternoon, 2-3,Away,
+GME0798,2008-03-29,13:00:00,Afternoon, 1-8,Home,
+GME0799,2008-03-29,15:00:00,Afternoon, 2-1,Home,
+GME0800,2008-03-30,13:00:00,Afternoon, 3-8,Home,
+GME0801,2008-04-02,17:00:00,Evening, 2-0,Home,
+GME0802,2008-04-02,19:00:00,Evening, 4-1,Home,
+GME0803,2008-04-05,15:00:00,Afternoon, 3-1,Home,
+GME0804,2008-04-05,17:00:00,Evening, 0-3,Home,
+GME0805,2008-04-06,12:00:00,Afternoon, 4-3,Home,
+GME0806,2008-04-08,16:00:00,Afternoon, 1-0,Home,
+GME0807,2008-04-08,18:00:00,Evening, 8-0,Home,
+GME0808,2008-04-12,13:00:00,Afternoon, 1-3,Away,
+GME0809,2008-04-12,15:00:00,Afternoon, 5-3,Away,
+GME0810,2008-04-13,13:00:00,Afternoon, 6-7,Away,
+GME0811,2008-04-16,16:00:00,Afternoon, 0-7,Away,
+GME0812,2008-04-16,18:00:00,Evening, 2-3,Away,
+GME0813,2008-04-19,13:00:00,Afternoon, 4-5,Home,
+GME0814,2008-04-19,15:00:00,Afternoon, 6-1,Home,
+GME0815,2008-04-20,13:00:00,Afternoon, 2-0,Home,
+GME0816,2008-04-23,16:00:00,Afternoon, 3-0,Home,
+GME0817,2008-04-23,18:00:00,Evening, 17-1,Home,
+GME0818,2008-04-26,13:00:00,Afternoon, 2-0,Away,
+GME0819,2008-04-26,15:00:00,Afternoon, 2-4,Away,
+GME0820,2008-04-27,13:00:00,Afternoon, 3-4,Away,
+GME0821,2008-04-30,15:00:00,Afternoon, 3-4,Away,
+GME0822,2008-04-30,17:00:00,Evening, 12-3,Away,
+GME0823,2008-05-03,13:00:00,Afternoon, 2-5,Away,
+GME0824,2008-05-03,15:00:00,Afternoon, 1-3,Away,
+GME0825,2008-05-04,13:00:00,Afternoon, 8-0,Away,
+GME0826,2008-05-08,12:30:00,Afternoon, 4-7,Away,
+GME0827,2008-05-08,20:00:00,Night, 3-7,Away,
+GME0828,2007-02-16,11:00:00,Morning, 1-6,Away,
+GME0829,2007-02-16,13:00:00,Afternoon, 9-1,Away,
+GME0830,2007-02-17,11:00:00,Morning, 4-1,Home,
+GME0831,2007-02-17,9:00:00,Morning, 8-1,Away,
+GME0832,2007-02-18,13:00:00,Afternoon, 1-2,Away,
+GME0833,2007-02-23,13:00:00,Afternoon, 6-5,Home,
+GME0834,2007-02-23,18:00:00,Evening, 3-2,Away,
+GME0835,2007-02-24,23:00:00,Night, 6-9,Home,
+GME0836,2007-02-24,18:00:00,Evening, 0-6,Away,
+GME0837,2007-02-25,14:00:00,Afternoon, 1-11,Home,
+GME0838,2007-02-25,16:00:00,Afternoon, 0-1,Home,
+GME0839,2007-03-02,12:00:00,Afternoon, 3-2,Home,
+GME0840,2007-03-02,16:30:00,Afternoon, 1-3,Home,
+GME0841,2007-03-04,11:00:00,Morning, 1-8,Home,
+GME0842,2007-03-04,8:30:00,Morning, 5-4,Home,
+GME0843,2007-03-09,16:00:00,Afternoon, 7-2,Away,
+GME0844,2007-03-09,18:00:00,Evening, 1-2,Home,
+GME0845,2007-03-10,13:00:00,Afternoon, 1-4,Home,
+GME0846,2007-03-10,17:00:00,Evening, 11-2,Home,
+GME0847,2007-03-11,11:00:00,Morning, 8-0,Home,
+GME0848,2007-03-13,14:00:00,Afternoon, 12-3,Away,
+GME0849,2007-03-13,16:00:00,Afternoon, 4-1,Away,
+GME0850,2007-03-21,15:00:00,Afternoon, 5-0,Home,
+GME0851,2007-03-21,17:00:00,Evening, 3-1,Home,
+GME0852,2007-03-24,13:00:00,Afternoon, 15-1,Away,
+GME0853,2007-03-24,15:00:00,Afternoon, 8-3,Away,
+GME0854,2007-03-25,13:00:00,Afternoon, 11-1,Away,
+GME0855,2007-03-28,14:00:00,Afternoon, 6-5,Away,
+GME0856,2007-03-28,16:00:00,Afternoon, 6-0,Away,
+GME0857,2007-03-31,12:00:00,Afternoon, 2-4,Away,
+GME0858,2007-03-31,14:00:00,Afternoon, 0-6,Away,
+GME0859,2007-04-01,11:30:00,Morning, 0-8,Away,
+GME0860,2007-04-04,17:00:00,Evening, 5-2,Home,
+GME0861,2007-04-04,19:00:00,Evening, 6-3,Home,
+GME0862,2007-04-07,13:00:00,Afternoon, 3-2,Home,
+GME0863,2007-04-08,12:00:00,Afternoon, 0-4,Home,
+GME0864,2007-04-08,14:00:00,Afternoon, 2-7,Home,
+GME0865,2007-04-11,16:00:00,Afternoon, 8-0,Home,
+GME0866,2007-04-11,18:00:00,Evening, 14-0,Home,
+GME0867,2007-04-14,11:00:00,Morning, 3-7,Home,
+GME0868,2007-04-14,13:00:00,Afternoon, 2-7,Home,
+GME0869,2007-04-18,16:00:00,Afternoon, 8-1,Home,
+GME0870,2007-04-18,18:00:00,Evening, 8-0,Home,
+GME0871,2007-04-21,12:00:00,Afternoon, 4-5,Away,
+GME0872,2007-04-21,14:00:00,Afternoon, 1-11,Away,
+GME0873,2007-04-22,13:00:00,Afternoon, 5-4,Away,
+GME0874,2007-04-25,16:00:00,Afternoon, 4-2,Home,
+GME0875,2007-04-25,18:00:00,Evening, 5-1,Home,
+GME0876,2007-04-28,13:00:00,Afternoon, 2-4,Home,
+GME0877,2007-04-28,15:00:00,Afternoon, 7-4,Home,
+GME0878,2007-04-29,13:00:00,Afternoon, 1-8,Home,
+GME0879,2007-05-02,16:00:00,Afternoon, 0-6,Home,
+GME0880,2007-05-02,18:00:00,Evening, 3-4,Home,
+GME0881,2007-05-05,13:00:00,Afternoon, 5-6,Home,
+GME0882,2007-05-05,15:00:00,Afternoon, 7-4,Home,
+GME0883,2007-05-06,13:00:00,Afternoon, 3-2,Home,
+GME0884,2007-05-10,10:00:00,Morning, 1-5,Away,
+GME0885,2007-05-10,20:00:00,Night, 3-2,Away,
+GME0886,2007-05-11,20:00:00,Night, 4-7,Away,
+GME0887,2006-02-17,14:00:00,Afternoon, 1-2,Away,
+GME0888,2006-02-17,16:00:00,Afternoon, 3-0,Away,
+GME0889,2006-02-18,10:00:00,Morning, 1-0,Away,
+GME0890,2006-02-18,12:00:00,Afternoon, 5-2,Away,
+GME0891,2006-02-19,10:00:00,Morning, 4-5,Away,
+GME0892,2006-02-23,21:00:00,Night, 0-3,Away,
+GME0893,2006-02-24,15:30:00,Afternoon, 2-1,Away,
+GME0894,2006-02-24,18:30:00,Evening, 5-8,Away,
+GME0895,2006-02-25,12:30:00,Afternoon, 1-8,Away,
+GME0896,2006-02-25,16:00:00,Afternoon, 6-2,Away,
+GME0897,2006-02-26,12:00:00,Afternoon, 11-5,Away,
+GME0898,2006-03-03,11:00:00,Morning, 5-4,Away,
+GME0899,2006-03-03,13:30:00,Afternoon, 0-6,Away,
+GME0900,2006-03-04,13:30:00,Afternoon, 5-6,Away,
+GME0901,2006-03-04,18:30:00,Evening, 3-4,Away,
+GME0902,2006-03-10,11:00:00,Morning, 1-0,Away,
+GME0903,2006-03-10,9:00:00,Morning, 6-3,Home,
+GME0904,2006-03-11,11:00:00,Morning, 8-0,Away,
+GME0905,2006-03-11,9:00:00,Morning, 8-0,Away,
+GME0906,2006-03-15,14:00:00,Afternoon, 0-2,Away,
+GME0907,2006-03-15,16:00:00,Afternoon, 0-2,Away,
+GME0908,2006-03-18,12:00:00,Afternoon, 1-4,Away,
+GME0909,2006-03-18,14:00:00,Afternoon, 0-9,Away,
+GME0910,2006-03-19,12:00:00,Afternoon, 1-5,Away,
+GME0911,2006-03-22,14:00:00,Afternoon, 9-0,Home,
+GME0912,2006-03-22,16:00:00,Afternoon, 13-0,Home,
+GME0913,2006-03-25,14:00:00,Afternoon, 0-5,Away,
+GME0914,2006-03-26,13:00:00,Afternoon, 4-3,Away,
+GME0915,2006-03-26,15:00:00,Afternoon, 1-6,Away,
+GME0916,2006-03-28,14:00:00,Afternoon, 8-0,Home,
+GME0917,2006-03-28,16:00:00,Afternoon, 4-1,Home,
+GME0918,2006-03-29,15:00:00,Afternoon, 2-0,Home,
+GME0919,2006-03-29,17:00:00,Evening, 8-0,Home,
+GME0920,2006-04-01,13:00:00,Afternoon, 1-4,Away,
+GME0921,2006-04-01,15:00:00,Afternoon, 1-0,Away,
+GME0922,2006-04-02,13:00:00,Afternoon, 0-3,Away,
+GME0923,2006-04-05,17:00:00,Evening, 10-1,Home,
+GME0924,2006-04-05,19:00:00,Evening, 6-5,Home,
+GME0925,2006-04-09,12:00:00,Afternoon, 1-0,Home,
+GME0926,2006-04-09,14:00:00,Afternoon, 5-1,Home,
+GME0927,2006-04-12,17:00:00,Evening, 12-0,Home,
+GME0928,2006-04-12,19:00:00,Evening, 9-1,Home,
+GME0929,2006-04-15,13:00:00,Afternoon, 1-2,Home,
+GME0930,2006-04-15,15:00:00,Afternoon, 1-4,Home,
+GME0931,2006-04-16,13:00:00,Afternoon, 1-0,Home,
+GME0932,2006-04-19,15:00:00,Afternoon, 5-0,Home,
+GME0933,2006-04-19,17:00:00,Evening, 4-6,Home,
+GME0934,2006-04-22,13:00:00,Afternoon, 9-5,Away,
+GME0935,2006-04-22,15:00:00,Afternoon, 5-8,Away,
+GME0936,2006-04-23,11:00:00,Morning, 1-4,Away,
+GME0937,2006-04-26,15:00:00,Afternoon, 2-0,Away,
+GME0938,2006-04-26,17:00:00,Evening, 4-5,Away,
+GME0939,2006-05-03,14:00:00,Afternoon, 2-0,Away,
+GME0940,2006-05-03,16:00:00,Afternoon, 5-0,Away,
+GME0941,2006-05-06,13:00:00,Afternoon, 6-4,Home,
+GME0942,2006-05-06,15:00:00,Afternoon, 1-4,Home,
+GME0943,2006-05-07,13:00:00,Afternoon, 4-8,Home,
+GME0944,2006-05-11,12:30:00,Afternoon, 3-5,Away,ACC Tournament
+GME0945,2006-05-11,20:00:00,Night, 0-1,Away,ACC Tournament
+GME0946,2005-02-18,12:00:00,Afternoon, 1-6,Home,Crimson Classic
+GME0947,2005-02-18,14:30:00,Afternoon, 0-7,Away,Crimson Classic
+GME0948,2005-02-19,12:00:00,Afternoon, 1-7,Home,Crimson Classic
+GME0949,2005-02-19,17:00:00,Evening, 3-2,Home,Crimson Classic
+GME0950,2005-02-20,14:00:00,Afternoon, 0-5,Away,Crimson Classic
+GME0951,2005-03-04,11:00:00,Morning, 5-3,Away,Red and Black Challenge
+GME0952,2005-03-04,13:00:00,Afternoon, 9-1,Away,Red and Black Challenge
+GME0953,2005-03-05,13:00:00,Afternoon, 5-4,Away,Red and Black Challenge
+GME0954,2005-03-05,9:00:00,Morning, 1-3,Away,Red and Black Challenge
+GME0955,2005-03-06,14:00:00,Afternoon, 0-5,Away,Red and Black Challenge
+GME0956,2005-03-11,13:00:00,Afternoon, 3-2,Away,Florida State Invitational
+GME0957,2005-03-11,17:00:00,Evening, 1-3,Away,Florida State Invitational
+GME0958,2005-03-12,13:00:00,Afternoon, 2-1,Home,Florida State Invitational
+GME0959,2005-03-12,15:00:00,Afternoon, 2-6,Away,Florida State Invitational
+GME0960,2005-03-13,11:00:00,Morning, 3-0,Away,Florida State Invitational
+GME0961,2005-03-19,11:00:00,Morning, 5-1,Home,MARYLAND INVITATIONAL
+GME0962,2005-03-19,13:00:00,Afternoon, 5-3,Home,MARYLAND INVITATIONAL
+GME0963,2005-03-20,12:00:00,Afternoon, 2-3,Home,MARYLAND INVITATIONAL
+GME0964,2005-03-20,16:00:00,Afternoon, 5-1,Home,MARYLAND INVITATIONAL
+GME0965,2005-03-25,15:00:00,Afternoon, 0-5,Home,
+GME0966,2005-03-26,,Night, 10-0 ,Away,
+GME0967,2005-03-30,,Night, 5-0,Away,
+GME0968,2005-03-31,14:00:00,Afternoon, 9-0,Home,
+GME0969,2005-04-06,17:00:00,Evening, 10-1,Home,
+GME0970,2005-04-09,14:00:00,Afternoon, 1-0,Home,
+GME0971,2005-04-10,12:00:00,Afternoon, 0-2,Away,
+GME0972,2005-04-16,16:00:00,Afternoon, 7-2,Away,
+GME0973,2005-04-17,13:00:00,Afternoon, 0-2,Away,
+GME0974,2005-04-24,12:00:00,Afternoon, 2-3,Home,
+GME0975,2005-04-24,13:00:00,Afternoon, 1-3,Home,
+GME0976,2005-04-27,18:00:00,Evening, 7-3,Home,
+GME0977,2005-04-29,19:00:00,Evening, 2-1,Home,
+GME0978,2005-05-04,14:00:00,Afternoon, 0-2,Home,
+GME0979,2005-05-07,15:00:00,Afternoon, 7-0,Home,
+GME0980,2005-05-12,17:00:00,Evening, 4-5,Home,ACC TOURNAMENT
+GME0981,2005-05-13,13:30:00,Afternoon, 2-0,Home,ACC TOURNAMENT
+GME0982,2005-05-13,19:30:00,Evening, 3-2,Home,ACC TOURNAMENT
+GME0983,2005-05-14,15:30:00,Afternoon, 3-5,Home,ACC TOURNAMENT
+GME0984,2004-02-20,10:00:00,Morning, 1-3,Home,USF Best Western-All Suites Hotels Tournament
+GME0985,2004-02-20,14:30:00,Afternoon, 1-3,Home,USF Best Western-All Suites Hotels Tournament
+GME0986,2004-02-21,10:00:00,Morning, 10-3,Home,USF Best Western-All Suites Hotels Tournament
+GME0987,2004-02-21,17:30:00,Evening, 15-0,Home,USF Best Western-All Suites Hotels Tournament
+GME0988,2004-02-22,9:00:00,Morning, 14-4,Home,USF Best Western-All Suites Hotels Tournament
+GME0989,2004-02-27,13:30:00,Afternoon, 1-4,Home,Golden Panthers adidas Tournament
+GME0990,2004-02-27,18:30:00,Evening, 5-1,Home,Golden Panthers adidas Tournament
+GME0991,2004-02-28,11:00:00,Morning, 0-1,Home,Golden Panthers adidas Tournament
+GME0992,2004-02-28,18:30:00,Evening, 0-5,Home,Golden Panthers adidas Tournament
+GME0993,2004-02-29,10:30:00,Morning, 6-3,Home,Golden Panthers adidas Tournament
+GME0994,2004-03-05,10:00:00,Morning, 2-1,Home,Georgia Softball Classic
+GME0995,2004-03-05,14:00:00,Afternoon, 5-4,Home,Georgia Softball Classic
+GME0996,2004-03-06,11:15:00,Morning, 10-4,Home,Georgia Softball Classic
+GME0997,2004-03-06,15:15:00,Afternoon, 0-5,Home,Georgia Softball Classic
+GME0998,2004-03-07,14:00:00,Afternoon, 0-4,Home,Georgia Softball Classic
+GME0999,2004-03-12,14:00:00,Afternoon, 4-1,Home,FSU Invitational
+GME1000,2004-03-12,16:00:00,Afternoon, 3-8,Home,FSU Invitational
+GME1001,2004-03-13,12:00:00,Afternoon, 2-6,Away,FSU Invitational
+GME1002,2004-03-13,14:00:00,Afternoon, 0-6,Home,FSU Invitational
+GME1003,2004-03-13,17:00:00,Evening, 8-0,Home,FSU Invitational
+GME1004,2004-03-14,10:00:00,Morning, 0-2,Home,FSU Invitational
+GME1005,2004-03-17,14:00:00,Afternoon, 6-4,Home,
+GME1006,2004-03-17,16:00:00,Afternoon, 6-0,Home,
+GME1007,2004-03-20,11:00:00,Morning, 2-3,Home,Maryland Invitational
+GME1008,2004-03-20,13:00:00,Afternoon, 9-0,Home,Maryland Invitational
+GME1009,2004-03-21,12:00:00,Afternoon, 1-3,Away,Maryland Invitational
+GME1010,2004-03-27,13:00:00,Afternoon, 9-6,Home,Terrapin Invitational
+GME1011,2004-03-27,15:00:00,Afternoon, 5-4,Home,Terrapin Invitational
+GME1012,2004-03-28,12:00:00,Afternoon, 4-3,Home,Terrapin Invitational
+GME1013,2004-03-28,16:00:00,Afternoon, 1-2,Home,Terrapin Invitational
+GME1014,2004-04-06,15:00:00,Afternoon, 6-2,Away,
+GME1015,2004-04-06,17:00:00,Evening, 4-0,Away,
+GME1016,2004-04-08,15:00:00,Afternoon, 4-1,Home,
+GME1017,2004-04-08,17:00:00,Evening, 2-0,Home,
+GME1018,2004-04-10,13:00:00,Afternoon, 0-5,Away,
+GME1019,2004-04-10,15:00:00,Afternoon, 1-0,Away,
+GME1020,2004-04-11,13:00:00,Afternoon, 0-1,Away,
+GME1021,2004-04-11,15:00:00,Afternoon, 3-5,Away,
+GME1022,2004-04-15,15:30:00,Afternoon, 9-0,Home,
+GME1023,2004-04-15,17:30:00,Evening, 10-2,Home,
+GME1024,2004-04-17,13:00:00,Afternoon, 5-0,Away,
+GME1025,2004-04-17,15:00:00,Afternoon, 3-0,Away,
+GME1026,2004-04-18,12:00:00,Afternoon, 0-7,Home,
+GME1027,2004-04-18,14:00:00,Afternoon, 1-2,Home,
+GME1028,2004-04-25,13:00:00,Afternoon, 1-6,Home,
+GME1029,2004-04-25,15:00:00,Afternoon, 3-11,Home,
+GME1030,2004-04-29,15:00:00,Afternoon, 3-1,Away,
+GME1031,2004-04-29,17:00:00,Evening, 3-1,Home,
+GME1032,2004-05-02,12:00:00,Afternoon, 2-10,Away,
+GME1033,2004-05-02,14:00:00,Afternoon, 0-1,Away,
+GME1034,2004-05-06,14:00:00,Afternoon, 3-2,Away,
+GME1035,2004-05-06,16:00:00,Afternoon, 3-0,Away,
+GME1036,2004-05-08,13:00:00,Afternoon, 1-3,Home,
+GME1037,2004-05-08,15:00:00,Afternoon, 0-3,Home,
+GME1038,2004-05-09,13:00:00,Afternoon, 1-0,Home,
+GME1039,2004-05-09,15:00:00,Afternoon, 2-1,Home,
+GME1040,2004-05-14,13:30:00,Afternoon, 5-3,Away,ACC Championship
+GME1041,2004-05-14,19:30:00,Evening, 2-7,Away,ACC Championship
+GME1042,2004-05-15,12:30:00,Afternoon, 6-0,Away,ACC Championship
+GME1043,2004-05-15,17:30:00,Evening, 4-6,Away,ACC Championship
+GME1044,2003-02-14,12:00:00,Afternoon, 2-4,Away,Univ. of Georgia Tournament
+GME1045,2003-02-14,14:00:00,Afternoon, 2-1,Away,Univ. of Georgia Tournament
+GME1046,2003-02-15,14:00:00,Afternoon, 2-6,Home,Univ. of Georgia Tournament
+GME1047,2003-02-15,18:00:00,Evening, 3-1,Away,Univ. of Georgia Tournament
+GME1048,2003-02-21,11:00:00,Morning, 2-1,Home,USF-Best Western Tournament
+GME1049,2003-02-21,9:00:00,Morning, 1-2,Home,USF-Best Western Tournament
+GME1050,2003-02-23,14:30:00,Afternoon, 1-7,Home,USF-Best Western Tournament
+GME1051,2003-02-23,9:00:00,Morning, 2-0,Home,USF-Best Western Tournament
+GME1052,2003-03-06,10:00:00,Morning, 5-3,Home,Speedline Invitational
+GME1053,2003-03-06,14:00:00,Afternoon, 2-6,Home,Speedline Invitational
+GME1054,2003-03-07,16:00:00,Afternoon, 1-5,Home,Speedline Invitational
+GME1055,2003-03-07,18:00:00,Evening, 0-9,Home,Speedline Invitational
+GME1056,2003-03-08,14:00:00,Afternoon, 7-0,Home,Speedline Invitational
+GME1057,2003-03-22,10:00:00,Morning, 2-1,Home,Buzz Classic
+GME1058,2003-03-22,18:00:00,Evening, 0-1,Home,Buzz Classic
+GME1059,2003-03-22,20:00:00,Night, 8-5,Home,Buzz Classic
+GME1060,2003-03-23,13:00:00,Afternoon, 1-2,Home,Buzz Classic
+GME1061,2003-03-25,16:00:00,Afternoon, 2-6,Away,
+GME1062,2003-03-25,18:00:00,Evening, 2-3,Away,
+GME1063,2003-03-29,15:00:00,Afternoon, 8-1,Home,Maryland Invitational
+GME1064,2003-04-02,17:00:00,Evening, 11-1,Home,
+GME1065,2003-04-02,19:00:00,Evening, 8-3,Home,
+GME1066,2003-04-06,12:00:00,Afternoon, 1-5,Home,
+GME1067,2003-04-06,14:00:00,Afternoon, 0-1,Home,
+GME1068,2003-04-13,13:00:00,Afternoon, 4-0,Home,
+GME1069,2003-04-13,15:00:00,Afternoon, 12-0,Home,
+GME1070,2003-04-16,17:00:00,Evening, 4-2,Home,
+GME1071,2003-04-16,19:00:00,Evening, 1-0,Home,
+GME1072,2003-04-19,12:00:00,Afternoon, 0-3,Away,
+GME1073,2003-04-19,14:00:00,Afternoon, 1-5,Away,
+GME1074,2003-04-23,17:00:00,Evening, 8-0,Home,
+GME1075,2003-04-23,19:00:00,Evening, 9-1,Home,
+GME1076,2003-04-26,15:00:00,Afternoon, 2-0,Home,
+GME1077,2003-04-26,17:00:00,Evening, 1-5,Home,
+GME1078,2003-04-29,17:00:00,Evening, 6-0,Home,
+GME1079,2003-04-29,19:00:00,Evening, 6-0,Home,
+GME1080,2003-04-30,17:00:00,Evening, 3-0,Home,
+GME1081,2003-04-30,19:00:00,Evening, 8-0,Home,
+GME1082,2003-05-01,17:00:00,Evening, 11-0,Home,
+GME1083,2003-05-01,19:00:00,Evening, 9-0,Home,
+GME1084,2003-05-06,17:00:00,Evening, 8-0,Home,
+GME1085,2003-05-06,19:00:00,Evening, 2-0,Home,
+GME1086,2003-05-09,15:00:00,Afternoon, 0-4,Home,ACC Tournament
+GME1087,2003-05-10,11:00:00,Morning, 9-8,Away,ACC Tournament
+GME1088,2003-05-10,17:00:00,Evening, 3-6,Away,ACC Tournament
+GME1089,2002-02-08,12:00:00,Afternoon, 4-3,Home,Bama Bash
+GME1090,2002-02-09,12:00:00,Afternoon, 11-1,Away,Bama Bash
+GME1091,2002-02-09,16:00:00,Afternoon, 2-4,Home,
+GME1092,2002-02-15,12:00:00,Afternoon, 5-1,Away,Seminole Classic
+GME1093,2002-02-15,14:00:00,Afternoon, 1-3,Away,Seminole Classic
+GME1094,2002-02-16,16:00:00,Afternoon, 1-2,Away,Seminole Classic
+GME1095,2002-02-17,12:00:00,Afternoon, 2-4,Away,Seminole Classic
+GME1096,2002-02-22,10:00:00,Morning, 7-2,Away,USF-Holiday Inn Tournament
+GME1097,2002-03-07,13:00:00,Afternoon, 2-1,Away,Speedline Invitational
+GME1098,2002-03-07,15:00:00,Afternoon, 10-8,Away,Speedline Invitational
+GME1099,2002-03-08,12:00:00,Afternoon, 4-3,Away,Speedline Invitational
+GME1100,2002-03-09,,Night, 3-0,Away,Speedline Invitational
+GME1101,2002-03-14,16:30:00,Afternoon, 7-3,Away,
+GME1102,2002-03-15,13:00:00,Afternoon, 3-1,Away,
+GME1103,2002-03-15,15:00:00,Afternoon, 11-2,Away,
+GME1104,2002-03-22,15:00:00,Afternoon, 4-1,Away,Buzz Classic
+GME1105,2002-03-22,18:00:00,Evening, 4-3,Away,Buzz Classic
+GME1106,2002-03-23,17:00:00,Evening, 7-1,Away,Buzz Classic
+GME1107,2002-03-23,9:00:00,Morning, 12-3,Away,Buzz Classic
+GME1108,2002-03-23,21:00:00,Night, 5-2,Away,Buzz Classic
+GME1109,2002-03-24,13:00:00,Afternoon, 1-2,Away,Buzz Classic
+GME1110,2002-03-26,14:00:00,Afternoon, 3-0,Away,
+GME1111,2002-03-26,16:00:00,Afternoon, 4-0,Away,
+GME1112,2002-03-29,14:00:00,Afternoon, 5-3,Home,
+GME1113,2002-03-29,,Night, 4-0,Away,
+GME1114,2002-03-30,13:00:00,Afternoon, 2-1,Away,George Mason Spring Clash
+GME1115,2002-03-30,17:00:00,Evening, 8-0,Away,George Mason Spring Clash
+GME1116,2002-03-30,,Night, 6-0,Away,George Mason Spring Clash
+GME1117,2002-03-31,,Night, 7-3,Away,George Mason Spring Clash
+GME1118,2002-04-06,12:00:00,Afternoon, 5-7,Away,UNC Tournament
+GME1119,2002-04-06,14:00:00,Afternoon, 1-5,Home,
+GME1120,2002-04-07,12:00:00,Afternoon, 8-3,Away,UNC Tournament
+GME1121,2002-04-07,,Night, 7-3,Away,UNC Tournament
+GME1122,2002-04-10,15:30:00,Afternoon, 7-0,Home,
+GME1123,2002-04-10,17:30:00,Evening, 3-2,Home,
+GME1124,2002-04-17,15:00:00,Afternoon, 5-0,Away,
+GME1125,2002-04-17,17:00:00,Evening, 4-0,Away,
+GME1126,2002-04-20,13:00:00,Afternoon, 2-3,Home,
+GME1127,2002-04-24,14:30:00,Afternoon, 2-1,Home,
+GME1128,2002-04-24,16:30:00,Afternoon, 2-1,Home,
+GME1129,2002-04-27,14:00:00,Afternoon, 3-0,Away,
+GME1130,2002-04-27,16:00:00,Afternoon, 5-1,Away,
+GME1131,2002-04-30,15:30:00,Afternoon, 1-0,Away,
+GME1132,2002-04-30,17:30:00,Evening, 0-2,Away,
+GME1133,2002-05-10,17:00:00,Evening, 0-1,Away,ACC Tournament
+GME1134,2002-05-11,11:00:00,Morning, 1-4,Away,ACC Tournament
+GME1135,2001-02-16,11:00:00,Morning, 1-4,Away,USF-Holiday Inn Tournament
+GME1136,2001-02-16,13:00:00,Afternoon, 5-10,Away,USF-Holiday Inn Tournament
+GME1137,2001-02-17,18:00:00,Evening, 2-1,Away,USF-Holiday Inn Tournament
+GME1138,2001-02-17,20:00:00,Night, 4-3,Away,USF-Holiday Inn Tournament
+GME1139,2001-02-18,14:00:00,Afternoon, 2-4,Away,USF-Holiday Inn Tournament
+GME1140,2001-02-23,13:00:00,Afternoon, 5-1,Away,Florida Atlantic Invitational
+GME1141,2001-02-24,13:00:00,Afternoon, 3-5,Away,Florida Atlantic Invitational
+GME1142,2001-02-25,10:00:00,Morning, 1-4,Away,Florida Atlantic Invitational
+GME1143,2001-02-25,8:00:00,Morning, 4-3,Away,Florida Atlantic Invitational
+GME1144,2001-03-02,15:00:00,Afternoon, 8-1,Home,Terrapin Invitational
+GME1145,2001-03-08,17:00:00,Evening, 0-1,Away,Speedline Invitational
+GME1146,2001-03-09,14:00:00,Afternoon, 4-1,Away,Speedline Invitational
+GME1147,2001-03-10,12:00:00,Afternoon, 3-1,Away,Speedline Invitational
+GME1148,2001-03-14,14:30:00,Afternoon, 1-3,Home,
+GME1149,2001-03-14,16:30:00,Afternoon, 2-1,Home,
+GME1150,2001-03-16,12:00:00,Afternoon, 5-4,Away,Lady Seminole Invitational
+GME1151,2001-03-17,17:30:00,Evening, 5-3,Away,Lady Seminole Invitational
+GME1152,2001-03-20,3:00:00,Morning, 3-2,Home,
+GME1153,2001-03-23,13:00:00,Afternoon, 8-1,Away,Buzz Classic
+GME1154,2001-03-24,17:00:00,Evening, 6-2,Away,Buzz Classic
+GME1155,2001-03-28,14:30:00,Afternoon, 10-1,Away,
+GME1156,2001-04-04,14:30:00,Afternoon, 5-1,Home,
+GME1157,2001-04-04,16:30:00,Afternoon, 3-2,Home,
+GME1158,2001-04-14,15:00:00,Afternoon, 7-1,Home,
+GME1159,2001-04-15,15:00:00,Afternoon, 3-4,Home,ACC/SASA Game
+GME1160,2001-04-22,13:00:00,Afternoon, 2-3,Away,ACC/SASA Game
+GME1161,2001-04-22,,Night, 1-5,Away,ACC/SASA Game
+GME1162,2001-04-25,17:00:00,Evening, 4-5,Away,
+GME1163,2001-04-29,13:00:00,Afternoon, 3-2,Home,ACC/SASA Game
+GME1164,2001-04-29,15:00:00,Afternoon, 4-3,Home,ACC/SASA Game
+GME1165,2001-05-05,14:00:00,Afternoon, 1-10,Away,ACC/SASA Game
+GME1166,2001-05-11,17:00:00,Evening, 1-2,Away,ACC Championship
+GME1167,2001-05-12,15:00:00,Afternoon, 3-1,Away,ACC Championship
+GME1168,2000-02-18,12:00:00,Afternoon, 5-0,Away,Triangle Classic Tournament
+GME1169,2000-02-18,14:00:00,Afternoon, 7-1,Away,Triangle Classic Tournament
+GME1170,2000-02-19,10:00:00,Morning, 6-1,Away,Triangle Classic Tournament
+GME1171,2000-02-19,14:00:00,Afternoon, 5-4,Away,Triangle Classic Tournament
+GME1172,2000-02-20,12:00:00,Afternoon, 2-3,Away,Triangle Classic Tournament
+GME1173,2000-03-04,13:00:00,Afternoon, 6-5,Home,Terrapin Invitational
+GME1174,2000-03-04,15:00:00,Afternoon, 7-2,Home,Terrapin Invitational
+GME1175,2000-03-05,11:00:00,Morning, 6-3,Home,Terrapin Invitational
+GME1176,2000-03-05,15:00:00,Afternoon, 8-3,Home,Terrapin Invitational
+GME1177,2000-03-09,15:00:00,Afternoon, 6-5,Away,Speedline Invitational Tournament
+GME1178,2000-03-10,10:00:00,Morning, 2-0,Away,Speedline Invitational Tournament
+GME1179,2000-03-10,12:00:00,Afternoon, 4-3,Away,Speedline Invitational Tournament
+GME1180,2000-03-11,10:00:00,Morning, 2-0,Away,Speedline Invitational Tournament
+GME1181,2000-03-17,10:00:00,Morning, 7-3,Away,Lady Seminole Invitational
+GME1182,2000-03-17,12:00:00,Afternoon, 7-1,Away,Lady Seminole Invitational
+GME1183,2000-03-17,18:00:00,Evening, 10-2,Away,Lady Seminole Invitational
+GME1184,2000-03-18,,Night, 7-6,Away,Lady Seminole Invitational
+GME1185,2000-03-18,,Night, 6-5,Away,Lady Seminole Invitational
+GME1186,2000-03-21,14:00:00,Afternoon, 7-3,Away,
+GME1187,2000-03-21,16:00:00,Afternoon, 9-5,Away,
+GME1188,2000-03-24,11:00:00,Morning, 6-3,Away,Buzz Classic
+GME1189,2000-03-24,15:00:00,Afternoon, 14-5,Away,Buzz Classic
+GME1190,2000-03-25,12:30:00,Afternoon, 8-3,Away,Buzz Classic
+GME1191,2000-03-25,20:00:00,Night, 6-3,Away,Buzz Classic
+GME1192,2000-03-26,,Night, 4-2,Away,Buzz Classic
+GME1193,2000-03-30,14:30:00,Afternoon, 8-1,Home,
+GME1194,2000-03-30,16:30:00,Afternoon, 15-1,Home,
+GME1195,2000-04-01,13:00:00,Afternoon, 5-0,Home,
+GME1196,2000-04-01,15:00:00,Afternoon, 6-1,Home,
+GME1197,2000-04-07,18:00:00,Evening, 4-1,Away,
+GME1198,2000-04-07,20:00:00,Night, 5-1,Away,
+GME1199,2000-04-12,15:30:00,Afternoon, 4-2,Home,
+GME1200,2000-04-12,17:30:00,Evening, 4-1,Home,
+GME1201,2000-04-14,15:00:00,Afternoon, 2-3,Home,
+GME1202,2000-04-16,13:00:00,Afternoon, 3-4,Away,
+GME1203,2000-04-22,13:00:00,Afternoon, 5-3,Home,
+GME1204,2000-04-29,,Night, 2-6,Away,ACC Tournament
+GME1205,2000-04-30,13:00:00,Afternoon, 2-1,Away,ACC Tournament
+GME1206,2000-04-30,17:00:00,Evening, 4-3,Away,ACC Tournament
+GME1207,2000-05-04,15:00:00,Afternoon, 3-10,Home,
+GME1208,2000-05-04,17:00:00,Evening, 2-3,Home,
+GME1209,2000-05-06,16:00:00,Afternoon, 4-5,Away,
+GME1210,1999-02-05,12:00:00,Afternoon, 2-3,Home,
+GME1211,1999-02-05,15:00:00,Afternoon, 6-5,Away,Louisville Slugger Tournament
+GME1212,1999-02-06,18:00:00,Evening, 2-6,Home,
+GME1213,1999-02-06,,Night, 3-2,Away,Louisville Slugger Tournament
+GME1214,1999-02-12,13:00:00,Afternoon, 1-3,Home,
+GME1215,1999-02-13,9:00:00,Morning, 3-2,Home,
+GME1216,1999-02-14,10:00:00,Morning, 5-1,Home,Arizona State Coca-Cola Classic
+GME1217,1999-02-14,12:00:00,Afternoon, 9-4,Home,
+GME1218,1999-02-19,10:00:00,Morning, 4-3,Home,
+GME1219,1999-02-20,11:00:00,Morning, 3-1,Home,
+GME1220,1999-03-04,18:00:00,Evening, 1-2,Home,
+GME1221,1999-03-05,18:00:00,Evening, 1-3,Home,
+GME1222,1999-03-06,12:00:00,Afternoon, 3-7,Home,
+GME1223,1999-03-13,12:00:00,Afternoon, 10-1,Home,
+GME1224,1999-03-20,13:00:00,Afternoon, 7-1,Home,
+GME1225,1999-03-24,17:30:00,Evening, 5-3,Away,
+GME1226,1999-03-26,15:00:00,Afternoon, 7-2,Home,
+GME1227,1999-03-26,20:00:00,Night, 11-3,Home,Georgia Tech / Buzz Classic
+GME1228,1999-03-31,17:30:00,Evening, 6-2,Home,
+GME1229,1999-04-03,16:00:00,Afternoon, 5-2,Home,
+GME1230,1999-04-07,15:00:00,Afternoon, 3-2,Home,
+GME1231,1999-04-07,18:00:00,Evening, 9-3,Home,
+GME1232,1999-04-09,16:00:00,Afternoon, 2-1,Home,
+GME1233,1999-04-16,15:00:00,Afternoon, 2-1,Home,
+GME1234,1999-04-18,13:30:00,Afternoon, 9-3,Home,
+GME1235,1999-04-18,15:30:00,Afternoon, 5-4,Home,
+GME1236,1999-04-24,13:00:00,Afternoon, 2-5,Away,
+GME1237,1999-05-02,13:00:00,Afternoon, 2-1,Away,
+GME1238,1999-05-02,16:00:00,Afternoon, 5-3,Away,
+GME1239,1999-05-08,12:00:00,Afternoon, 3-2,Home,
+GME1240,1999-05-08,15:00:00,Afternoon, 4-3,Home,
+GME1241,1999-05-14,,Night, 1-2,Away,ACC Championship
+GME1242,1999-05-16,,Night, 1-3,Away,ACC Championship
+GME1243,1999-05-22,14:30:00,Afternoon, 7-3,Away,NCAA Regional
+GME1244,1999-05-23,13:00:00,Afternoon, 1-2,Away,NCAA Regional
+GME1245,1999-05-23,,, 1-2,Away,NCAA Regional
+GME1246,1998-02-20,,, 8-1,Neutral,Triangle Classic
+GME1247,1998-02-20,,, 2-4,Neutral,Triangle Classic
+GME1248,1998-02-21,,, 11-0,Neutral,Triangle Classic
+GME1249,1998-02-21,,, 0-1,Neutral,Triangle Classic
+GME1250,1998-02-21,,, 8-0,Neutral,Triangle Classic
+GME1251,1998-02-27,,, 2-3,Neutral,East Carolina Tournament
+GME1252,1998-02-27,,, 9-0,Neutral,East Carolina Tournament
+GME1253,1998-02-28,,, 8-0,Neutral,East Carolina Tournament
+GME1254,1998-02-28,,, 2-0,Neutral,East Carolina Tournament
+GME1255,1998-03-01,,, 6-1,Neutral,East Carolina Tournament
+GME1256,1998-03-01,,, 5-2,Neutral,East Carolina Tournament
+GME1257,1998-03-07,,, 2-1,Home,Terrapin Invitational
+GME1258,1998-03-07,,, 2-3,Home,Terrapin Invitational
+GME1259,1998-03-14,,, 1-2,Away,
+GME1260,1998-03-14,,, 5-3,Away,
+GME1261,1998-03-15,,, 18-0,Home,
+GME1262,1998-03-15,,, 0-18,Home,
+GME1263,1998-03-17,,, 2-4,Away,
+GME1264,1998-03-17,,, 4-3,Away,
+GME1265,1998-03-19,,, 9-0,Home,
+GME1266,1998-03-20,,, 2-7,Neutral,Winthrop Tournament
+GME1267,1998-03-21,,, 2-3,Neutral,Winthrop Tournament
+GME1268,1998-03-21,,, 1-0,Neutral,Winthrop Tournament
+GME1269,1998-03-22,,, 1-0,Neutral,Winthrop Tournament
+GME1270,1998-03-23,,, 7-5,Away,
+GME1271,1998-03-24,,, 5-0,Away,
+GME1272,1998-03-27,,, 9-2,Neutral,Buzz Classic
+GME1273,1998-03-27,,, 0-2,Neutral,Buzz Classic
+GME1274,1998-03-28,,, 9-10,Neutral,Buzz Classic
+GME1275,1998-03-28,,, 3-6,Neutral,Buzz Classic
+GME1276,1998-03-28,,, 3-4,Neutral,Buzz Classic
+GME1277,1998-04-04,,, 1-0,Away,
+GME1278,1998-04-04,,, 3-1,Away,
+GME1279,1998-04-05,,, 0-2,Away,
+GME1280,1998-04-05,,, 2-5,Away,
+GME1281,1998-04-11,,, 5-1,Home,
+GME1282,1998-04-11,,, 6-1,Home,
+GME1283,1998-04-14,,, 8-7,Home,
+GME1284,1998-04-14,,, 4-5,Home,
+GME1285,1998-04-17,,, 2-7,Home,
+GME1286,1998-04-17,,, 0-2,Home,
+GME1287,1998-04-19,,, 5-3,Home,
+GME1288,1998-04-19,,, 1-9,Home,
+GME1289,1998-04-23,,, 0-1,Away,ACC Tournament
+GME1290,1998-04-24,,, 4-0,Neutral,ACC Tournament
+GME1291,1998-04-24,,, 0-4,Neutral,ACC Tournament
+GME1292,1998-04-28,,, 2-0,Away,
+GME1293,1998-04-28,,, 5-1,Away,
+GME1294,1998-05-02,,, 6-4,Away,
+GME1295,1998-05-02,,, 0-8,Away,
+GME1296,1997-02-28,,, 0-1,Neutral,Triangle Classic
+GME1297,1997-02-28,,, 0-2,Neutral,Triangle Classic
+GME1298,1997-03-01,,, 4-2,Neutral,Triangle Classic
+GME1299,1997-03-01,,, 1-3,Neutral,Triangle Classic
+GME1300,1997-03-08,,, 1-0,Away,
+GME1301,1997-03-08,,, 2-7,Away,
+GME1302,1997-03-11,,, 9-0,Away,
+GME1303,1997-03-11,,, 11-1,Away,
+GME1304,1997-03-13,,, 2-0,Home,
+GME1305,1997-03-13,,, 0-3,Home,
+GME1306,1997-03-15,,, 7-2,Home,
+GME1307,1997-03-15,,, 12-4,Home,
+GME1308,1997-03-22,,, 0-1,Away,
+GME1309,1997-03-22,,, 0-5,Away,
+GME1310,1997-03-24,,, 0-2,Away,
+GME1311,1997-03-24,,, 2-3,Away,
+GME1312,1997-03-25,,, 0-1,Away,
+GME1313,1997-03-25,,, 0-3,Away,
+GME1314,1997-03-27,,, 3-0,Away,
+GME1315,1997-03-27,,, 4-3,Away,
+GME1316,1997-03-28,,, 9-8,Neutral,Buzz Classic
+GME1317,1997-03-28,,, 0-9,Neutral,Buzz Classic
+GME1318,1997-03-29,,, 1-0,Neutral,Buzz Classic
+GME1319,1997-03-29,,, 2-4,Neutral,Buzz Classic
+GME1320,1997-04-02,,, 1-0,Home,
+GME1321,1997-04-02,,, 6-7,Home,
+GME1322,1997-04-04,,, 4-1,Home,
+GME1323,1997-04-04,,, 2-6,Home,
+GME1324,1997-04-05,,, 2-0,Home,
+GME1325,1997-04-05,,, 3-5,Home,
+GME1326,1997-04-08,,, 0-3,Away,
+GME1327,1997-04-08,,, 0-4,Away,
+GME1328,1997-04-13,,, 2-1,Home,
+GME1329,1997-04-13,,, 3-0,Home,
+GME1330,1997-04-15,,, 6-2,Home,
+GME1331,1997-04-15,,, 3-4,Home,
+GME1332,1997-04-18,,, 4-3,Neutral,ACC Tournament
+GME1333,1997-04-18,,, 3-4,Neutral,ACC Tournament
+GME1334,1997-04-19,,, 9-0,Neutral,ACC Tournament
+GME1335,1997-04-19,,, 2-1,Neutral,ACC Tournament
+GME1336,1997-04-27,,, 2-0,Home,
+GME1337,1997-04-27,,, 5-0,Home,
+GME1338,1997-04-29,,, 3-0,Away,
+GME1339,1997-04-29,,, 0-1,Away,
+GME1340,1997-04-30,,, 8-0,Home,
+GME1341,1997-04-30,,, 8-0,Home,
+GME1342,1997-05-10,,, 4-0,Away,ECAC Championships
+GME1343,1997-05-10,,, 1-2,Neutral,ECAC Championships
+GME1344,1997-05-11,,, 0-3,Neutral,ECAC Championships
+GME1345,1996-02-24,,, 0-1,Neutral,Triangle Classic
+GME1346,1996-02-24,,, 0-2,Neutral,Triangle Classic
+GME1347,1996-02-24,,, 0-10,Neutral,Triangle Classic
+GME1348,1996-02-25,,, 1-0,Neutral,Triangle Classic
+GME1349,1996-02-25,,, 0-8,Neutral,Triangle Classic
+GME1350,1996-03-02,,, 2-1,Home,
+GME1351,1996-03-02,,, 2-0,Home,
+GME1352,1996-03-05,,, 19-1,Home,
+GME1353,1996-03-05,,, 17-0,Home,
+GME1354,1996-03-13,,, 19-1,Home,
+GME1355,1996-03-13,,, 26-0,Home,
+GME1356,1996-03-15,,, 6-2,Neutral,UNC Wilmington Tournament
+GME1357,1996-03-15,,, 1-0,Neutral,UNC Wilmington Tournament
+GME1358,1996-03-15,,, 3-7,Neutral,UNC Wilmington Tournament
+GME1359,1996-03-16,,, 2-0,Away,UNC Wilmington Tournament
+GME1360,1996-03-16,,, 8-1,Neutral,UNC Wilmington Tournament
+GME1361,1996-03-16,,, 18-1,Neutral,UNC Wilmington Tournament
+GME1362,1996-03-18,,, 0-2,Neutral,
+GME1363,1996-03-18,,, 2-2,Neutral,
+GME1364,1996-03-20,,, 6-0,Away,
+GME1365,1996-03-20,,, 2-4,Away,
+GME1366,1996-03-21,,, 6-2,Away,
+GME1367,1996-03-21,,, 6-1,Away,
+GME1368,1996-03-22,,, 1-0,Neutral,Winthrop Tournament
+GME1369,1996-03-22,,, 4-3,Neutral,Winthrop Tournament
+GME1370,1996-03-23,,, 1-12,Neutral,Winthrop Tournament
+GME1371,1996-03-23,,, 3-0,Neutral,Winthrop Tournament
+GME1372,1996-03-24,,, 4-0,Neutral,Winthrop Tournament
+GME1373,1996-03-24,,, 1-6,Neutral,Winthrop Tournament
+GME1374,1996-03-28,,, 2-0,Away,
+GME1375,1996-03-28,,, 0-1,Away,
+GME1376,1996-03-29,,, 3-6,Neutral,Buzz Classic
+GME1377,1996-03-29,,, 2-1,Neutral,Buzz Classic
+GME1378,1996-03-30,,, 7-3,Neutral,Buzz Classic
+GME1379,1996-04-05,,, 0-2,Home,
+GME1380,1996-04-05,,, 0-2,Home,
+GME1381,1996-04-07,,, 0-4,Home,
+GME1382,1996-04-07,,, 2-6,Home,
+GME1383,1996-04-11,,, 1-2,Home,
+GME1384,1996-04-11,,, 3-5,Home,
+GME1385,1996-04-12,,, 9-4,Away,
+GME1386,1996-04-12,,, 0-5,Away,
+GME1387,1996-04-13,,, 4-0,Neutral,Tar Heel Invitational
+GME1388,1996-04-13,,, 0-3,Neutral,Tar Heel Invitational
+GME1389,1996-04-14,,, 0-8,Neutral,Tar Heel Invitational
+GME1390,1996-04-14,,, 0-8,Neutral,Tar Heel Invitational
+GME1391,1996-04-18,,, 1-0,Neutral,ACC Tournament
+GME1392,1996-04-19,,, 3-0,Neutral,ACC Tournament
+GME1393,1996-04-19,,, 0-3,Neutral,ACC Tournament
+GME1394,1996-04-20,,, 1-3,Neutral,ACC Tournament
+GME1395,1996-04-23,,, 37-0,Home,
+GME1396,1996-04-23,,, 14-0,Home,
+GME1397,1996-04-25,,, 2-0,Away,
+GME1398,1996-04-25,,, 1-0,Away,
+GME1399,1996-04-27,,, 1-0,Home,
+GME1400,1996-04-27,,, 4-2,Home,
+GME1401,1996-04-28,,, 0-2,Home,
+GME1402,1996-04-28,,, 3-1,Home,
+GME1403,1995-02-25,,, 0-8,Away,
+GME1404,1995-02-25,,, 0-11,Away,
+GME1405,1995-03-07,,, 0-6,Home,
+GME1406,1995-03-07,,, 1-11,Home,
+GME1407,1995-03-11,,, 8-15,Home,
+GME1408,1995-03-11,,, 2-5,Home,
+GME1409,1995-03-12,,, 20-2,Home,
+GME1410,1995-03-12,,, 12-4,Home,
+GME1411,1995-03-18,,, 7-6,Home,
+GME1412,1995-03-18,,, 5-6,Home,
+GME1413,1995-03-21,,, 9-3,Home,
+GME1414,1995-03-21,,, 6-5,Home,
+GME1415,1995-03-24,,, 5-9,Neutral,Winthrop Tournament
+GME1416,1995-03-24,,, 0-15,Away,Winthrop Tournament
+GME1417,1995-03-25,,, 0-12,Neutral,Winthrop Tournament
+GME1418,1995-03-25,,, 3-4,Neutral,Winthrop Tournament
+GME1419,1995-03-28,,, 2-0,Home,
+GME1420,1995-03-28,,, 3-11,Home,
+GME1421,1995-03-30,,, 2-4,Away,
+GME1422,1995-03-30,,, 1-8,Away,
+GME1423,1995-03-31,,, 1-16,Neutral,Buzz Classic
+GME1424,1995-03-31,,, 3-8,Neutral,Buzz Classic
+GME1425,1995-03-31,,, 0-9,Neutral,Buzz Classic
+GME1426,1995-04-01,,, 1-12,Neutral,Buzz Classic
+GME1427,1995-04-03,,, 0-10,Home,
+GME1428,1995-04-03,,, 1-9,Home,
+GME1429,1995-04-05,,, 15-14,Away,
+GME1430,1995-04-05,,, 11-1,Away,
+GME1431,1995-04-06,,, 9-7,Home,
+GME1432,1995-04-06,,, 14-4,Home,
+GME1433,1995-04-08,,, 7-8,Away,
+GME1434,1995-04-08,,, 6-9,Away,
+GME1435,1995-04-11,,, 17-2,Away,
+GME1436,1995-04-11,,, 15-2,Away,
+GME1437,1995-04-12,,, 18-6,Home,
+GME1438,1995-04-12,,, 0-9,Home,
+GME1439,1995-04-15,,, 0-15,Away,
+GME1440,1995-04-15,,, 3-18,Away,
+GME1441,1995-04-17,,, 2-13,Away,TCNJ
+GME1442,1995-04-17,,, 0-11,Away,TCNJ
+GME1443,1995-04-20,,, 0-8,Neutral,ACC Tournament
+GME1444,1995-04-21,,, 0-8,Neutral,ACC Tournament
+GME1445,1995-04-24,,, 6-8,Home,
+GME1446,1995-04-24,,, 1-2,Home,
+GME1447,1995-04-26,,, 1-9,Away,
+GME1448,1995-04-26,,, 3-7,Away,
+GME1449,1995-04-29,,, 15-9,Away,
+GME1450,1995-04-29,,, 11-3,Away,
