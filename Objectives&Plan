@@ -1,0 +1,60 @@
+Mission Objectives:
+To determine the top 10 strongest/weakest opponents against UMD.
+To determine the home/away/neutral performance of UMD.
+To find the longest win streak for each year.
+To find the longest losing streak for each year.
+To find the time of the day when the softball team performs the best.
+To find team performance by tournament.
+
+Business Tasks/Processes:
+Data Source: https://umterps.com/sports/softball/schedule
+Data Collection: The data is collected using a web scraping tool on the ‘umdterps’ website.
+Extraction Method: Web Scraper Chrome Extension to extract by HTML selectors.
+Data Format: The data is downloaded and stored in .xlsx format.
+Data Meaning: The data presents the match details of the women’s softball team at UMD.
+Data Manipulation: Created Location, Opponent, Tournament tables.
+Location table has location id, location name and location at (Home/Away/Neutral).
+Opponent table has the columns opponent id, opponent name and opponent win rate.
+Tournament table has the columns tournament name and tournament win rate.
+Derived Columns: oppWinRate = (wins against opponent/games played against opponent). This will be calculated using SQL queries.
+trnWinRate = (wins in tournament/games played in tournament). This will be calculated using SQL queries.
+
+
+
+
+ER Schema:
+Opponent (oppId, oppName)
+Location (locId, locName)
+Game (gmeId, gmeDate, gmeTime, gmeTimeOfDay, gmeAt, gmeScore)
+Tournament (trnName)
+
+Relationships, Attributes, Degrees, Participating Entities and Constraints:
+Held: ternary relationship
+	1 Game and 1 Location to 1 Opponent
+	1 Opponent and 1 Game to 1 or more Locations
+	1 Location and 1 Opponent to 1 or more Games
+Played: binary relationship
+	1 or more Tournaments to 1 Game
+	1 or more Games to 1 Tournament
+Assumptions:
+	Locations cannot have 0 games. 
+	Win/lose streaks are only considered for a minimum of 2 consecutive games.
+
+Relational Schema:
+Opponent (oppId, oppName)
+Location (locId, locName)
+Game (gmeId, gmeDate, gmeTime, gmeTimeOfDay, gmeAt, gmeScore)
+Tournament (trnName)
+Play(trnName, gmeId)
+Hold (gmeId, oppId, locId)
+
+Business Rules:
+[R1] When a tournament is deleted/updated, the corresponding game details must also be deleted/updated from the database.
+[R2] When a game is deleted/updated, the tournament details cannot be deleted/updated.
+[R3] When a game is deleted/updated from the database, the opponent and location information cannot be deleted/updated.
+[R4] When an opponent is deleted/updated from the database, the corresponding game and location information are also deleted/updated.
+[R5] When a location is deleted/updated from the database, the corresponding game and location information are also deleted/updated.
+
+
+
+
